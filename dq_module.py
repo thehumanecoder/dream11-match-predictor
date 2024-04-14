@@ -15,12 +15,13 @@ class DQModule:
             self.urls = json.load(file)
 
         self.config = configparser.ConfigParser()
-        self.config.read('config.ini')
+        self.config.read(os.path.join('configs', 'config.ini'))
         mongo_url = self.config['MongoDB']['url']
         client = self.config['MongoDB']['client']
         self.client = MongoClient(mongo_url)
         self.db = self.client[client]
         self.match_ids = []
+        self.match_urls = {}
 
     def get_data(self) -> None:
         try:
@@ -74,7 +75,14 @@ class DQModule:
 
     def configure_match_urls(self) -> bool:
         urls = self.urls
-
+        match_urls = {}
+        for item in self.match_ids:
+            match_urls[str(item) + 'in_1'] = urls.get('onScoring_ing1_p1') + \
+                str(item) + urls.get('onScoring_ing1_p2')
+            match_urls[str(item) + 'in_2'] = urls.get('onScoring_ing2_p1') + \
+                str(item) + urls.get('onScoring_ing2_p2')
+        print(match_urls)
+        self.match_urls = match_urls
         return True
 
 
