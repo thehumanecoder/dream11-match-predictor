@@ -9,6 +9,7 @@ from pymongo import MongoClient
 
 
 class DQModule:
+
     def __init__(self) -> None:
         url_file_path = os.path.join('configs', 'urls.json')
         with open(url_file_path, 'r', encoding='utf-8') as file:
@@ -35,17 +36,18 @@ class DQModule:
                 pprint("Fetching schedules")
                 self.get_match_ids()
 
-                pprint(self.match_ids)
-                pprint("match ids acquired \n configuring new urls")
+                print("match ids acquired \n configuring new urls")
 
                 self.configure_match_urls()
+                print("urls configured \n fetching data by new url")
+                self.get_match_data_by_urls()
 
         except Exception as e:
             pprint(e)
 
     def get_match_details(self, match_details_url) -> any:
         try:
-            results = requests.get(match_details_url, timeout=15000)
+            results = requests.get(match_details_url, timeout=1500)
             cleaned_data_str = results.content.decode(
                 "utf-8").replace("onMatchLinks(", "").rstrip(");'")
             match_schedules = json.loads(cleaned_data_str)
@@ -81,9 +83,32 @@ class DQModule:
                 str(item) + urls.get('onScoring_ing1_p2')
             match_urls[str(item) + 'in_2'] = urls.get('onScoring_ing2_p1') + \
                 str(item) + urls.get('onScoring_ing2_p2')
-        print(match_urls)
         self.match_urls = match_urls
         return True
+
+    def get_match_data_by_urls(self) -> bool:
+        base_url = self.urls.get("baseUrl")
+
+        try:
+            for key, value in self.match_urls.items():
+                complete_url = base_url + value
+
+                results = requests.get(complete_url, timeout=1500)
+                cleaned_data_str = results.content.decode(
+                    "utf-8").replace("onScoring(", "").rstrip(");'")
+                # print(cleaned_data_str)
+
+                innings_data = json.dumps(cleaned_data_str)
+                # collection = self.db[self.config['MongoDB']['innings']]
+                # collection.drop()
+                # collection.insert_many(innings_data)
+                print(innings_data)
+
+            print("innings captured")
+            return True
+        except Exception as e:
+            print("Exception occured while getting innings data:", e)
+            return False
 
 
 stats_class = DQModule()
