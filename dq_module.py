@@ -135,7 +135,7 @@ class DQModule:
             os.makedirs(output_folder)
         else:
             shutil.rmtree(output_folder)
-
+            os.makedirs(output_folder)
         batting_card_all = []
         extras_all = []
         fall_of_wickets_all = []
