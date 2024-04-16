@@ -1,12 +1,12 @@
 import json
 import os
-import requests
 import configparser
 import shutil
 
-from tqdm import tqdm
 from pprint import pprint
 
+import requests
+from tqdm import tqdm
 from pymongo import MongoClient
 import pandas as pd
 
