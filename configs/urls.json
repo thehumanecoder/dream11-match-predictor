@@ -3,7 +3,7 @@
     "onIPLAllPlayerCarrierStats":"ipl/feeds/stats/player/allPlayerCarrierStats.js?callback=onIPLAllPlayerCarrierStats&_=1712989466580",
     "onScoring_ing1_p1":"ipl/feeds/",
     "onScoring_ing1_p2":"-Innings1.js?callback=onScoring&_=1712989466579",
-    "onScoring_ing2_p1":"/ipl/feeds/",
+    "onScoring_ing2_p1":"ipl/feeds/",
     "onScoring_ing2_p2":"-Innings2.js?callback=onScoring&_=1712989466579",
     "weather":"/ipl/feeds/stats/match/lucknow-fivedayweather.js?callback=lucknowfivedayweather&_=1712989466577",
     "MatchSchedule":"/ipl/feeds/148-matchschedule.js?MatchSchedule=_jqjsp&_1712989467629=",

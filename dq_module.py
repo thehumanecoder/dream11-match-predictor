@@ -2,10 +2,13 @@ import json
 import os
 import requests
 import configparser
+import shutil
 
+from tqdm import tqdm
 from pprint import pprint
 
 from pymongo import MongoClient
+import pandas as pd
 
 
 class DQModule:
@@ -34,13 +37,16 @@ class DQModule:
             if match_details:
                 pprint("schedules acquired")
                 pprint("Fetching schedules")
-                self.get_match_ids()
+                # self.get_match_ids()
 
                 print("match ids acquired \n configuring new urls")
 
-                self.configure_match_urls()
+                # self.configure_match_urls()
                 print("urls configured \n fetching data by new url")
-                self.get_match_data_by_urls()
+                # self.get_match_data_by_urls()
+                # converting to dataframe
+                print("Converting to dataframe")
+                self.convert_to_dataframe()
 
         except Exception as e:
             pprint(e)
@@ -84,13 +90,14 @@ class DQModule:
             match_urls[str(item) + 'in_2'] = urls.get('onScoring_ing2_p1') + \
                 str(item) + urls.get('onScoring_ing2_p2')
         self.match_urls = match_urls
+        # print(match_urls)
         return True
 
     def get_match_data_by_urls(self) -> bool:
         base_url = self.urls.get("baseUrl")
-
+        total_innings_data = []
         try:
-            for key, value in self.match_urls.items():
+            for key, value in tqdm(self.match_urls.items(), desc="Processing URLs"):
                 complete_url = base_url + value
 
                 results = requests.get(complete_url, timeout=1500)
@@ -98,17 +105,118 @@ class DQModule:
                     "utf-8").replace("onScoring(", "").rstrip(");'")
                 # print(cleaned_data_str)
 
-                innings_data = json.dumps(cleaned_data_str)
-                # collection = self.db[self.config['MongoDB']['innings']]
-                # collection.drop()
-                # collection.insert_many(innings_data)
-                print(innings_data)
+                innings_data = json.loads(cleaned_data_str)
+                total_innings_data.append(innings_data)
 
-            print("innings captured")
+            collection = self.db[self.config['MongoDB']['innings']]
+            collection.drop()
+            collection.insert_many(total_innings_data)
+
+            pprint("innings captured")
             return True
         except Exception as e:
-            print("Exception occured while getting innings data:", e)
+            print("Exception occurred while getting innings data:", e)
             return False
+
+    def convert_to_dataframe(self) -> bool:
+        collection = self.db[self.config['MongoDB']['innings']]
+        documents = collection.find()
+
+        output_folder = "outputs"
+
+        if not os.path.exists(output_folder):
+            os.makedirs(output_folder)
+        else:
+            shutil.rmtree(output_folder)
+
+        batting_card_all = []
+        extras_all = []
+        fall_of_wickets_all = []
+        wagon_wheel_all = []
+        partnership_scores_all = []
+        bowling_card_all = []
+        manhattan_graph_all = []
+        manhattan_wickets_all = []
+        over_history_all = []
+        wagon_wheel_summery_all = []
+        batting_head_to_head_all = []
+        bowling_head_to_head_all = []
+        for document in documents:
+            batting_card = document['Innings1']['BattingCard'] if 'Innings1' in document and 'BattingCard' in document[
+                'Innings1'] else document['Innings2']['BattingCard']
+            batting_card_all.append(batting_card)
+            extras = document['Innings1']['Extras'] if 'Innings1' in document and 'Extras' in document['Innings1'] else document['Innings2']['Extras']
+            extras_all.append(extras)
+            fall_of_wickets = document['Innings1']['FallOfWickets'] if 'Innings1' in document and 'FallOfWickets' in document[
+                'Innings1'] else document['Innings2']['FallOfWickets']
+            fall_of_wickets_all.append(fall_of_wickets)
+            wagon_wheel = document['Innings1']['WagonWheel'] if 'Innings1' in document and 'WagonWheel' in document[
+                'Innings1'] else document['Innings2']['WagonWheel']
+            wagon_wheel_all.append(wagon_wheel)
+            partnership_scores = document['Innings1']['PartnershipScores'] if 'Innings1' in document and 'PartnershipScores' in document[
+                'Innings1'] else document['Innings2']['PartnershipScores']
+            partnership_scores_all.append(partnership_scores)
+            bowling_card = document['Innings1']['BowlingCard'] if 'Innings1' in document and 'BowlingCard' in document[
+                'Innings1'] else document['Innings2']['BowlingCard']
+            bowling_card_all.append(bowling_card)
+            manhattan_graph = document['Innings1']['ManhattanGraph'] if 'Innings1' in document and 'ManhattanGraph' in document[
+                'Innings1'] else document['Innings2']['ManhattanGraph']
+            manhattan_graph_all.append(manhattan_graph)
+            manhattan_wickets = document['Innings1']['ManhattanWickets'] if 'Innings1' in document and 'ManhattanWickets' in document[
+                'Innings1'] else document['Innings2']['ManhattanWickets']
+            manhattan_wickets_all.append(manhattan_wickets)
+            over_history = document['Innings1']['OverHistory'] if 'Innings1' in document and 'OverHistory' in document[
+                'Innings1'] else document['Innings2']['OverHistory']
+            over_history_all.append(over_history)
+            wagon_wheel_summery = document['Innings1']['WagonWheelSummary'] if 'Innings1' in document and 'WagonWheelSummary' in document[
+                'Innings1'] else document['Innings2']['WagonWheelSummary']
+            wagon_wheel_summery_all.append(wagon_wheel_summery)
+            batting_head_to_head = document['Innings1']['battingheadtohead'] if 'Innings1' in document and 'battingheadtohead' in document[
+                'Innings1'] else document['Innings2']['battingheadtohead']
+            batting_head_to_head_all.append(batting_head_to_head)
+            bowling_head_to_head = document['Innings1']['bowlingheadtohead'] if 'Innings1' in document and 'bowlingheadtohead' in document[
+                'Innings1'] else document['Innings2']['bowlingheadtohead']
+            bowling_head_to_head_all.append(bowling_head_to_head)
+
+        batting_card_df = pd.DataFrame(batting_card_all)
+        extras_df = pd.DataFrame(extras_all)
+        fall_of_wickets_df = pd.DataFrame(fall_of_wickets_all)
+        wagon_wheel_df = pd.DataFrame(wagon_wheel_all)
+        partnership_scores_df = pd.DataFrame(partnership_scores_all)
+        bowling_card_df = pd.DataFrame(bowling_card_all)
+        manhattan_graph_df = pd.DataFrame(manhattan_graph_all)
+        manhattan_wickets_df = pd.DataFrame(manhattan_wickets_all)
+        over_history_df = pd.DataFrame(over_history_all)
+        wagon_wheel_summery_df = pd.DataFrame(wagon_wheel_summery_all)
+        batting_head_to_head_df = pd.DataFrame(batting_head_to_head_all)
+        bowling_head_to_head_df = pd.DataFrame(bowling_head_to_head_all)
+
+        batting_card_df.to_csv(os.path.join(
+            output_folder, "batting_card.csv"), index=False)
+        extras_df.to_csv(os.path.join(
+            output_folder, "extras.csv"), index=False)
+        fall_of_wickets_df.to_csv(os.path.join(
+            output_folder, "fall_of_wickets.csv"), index=False)
+        wagon_wheel_df.to_csv(os.path.join(
+            output_folder, "wagon_wheel.csv"), index=False)
+        partnership_scores_df.to_csv(os.path.join(
+            output_folder, "partnership_scores.csv"), index=False)
+        bowling_card_df.to_csv(os.path.join(
+            output_folder, "bowling_card.csv"), index=False)
+        manhattan_graph_df.to_csv(os.path.join(
+            output_folder, "manhattan_graph.csv"), index=False)
+        manhattan_wickets_df.to_csv(os.path.join(
+            output_folder, "manhattan_wickets.csv"), index=False)
+        over_history_df.to_csv(os.path.join(
+            output_folder, "over_history.csv"), index=False)
+        wagon_wheel_summery_df.to_csv(os.path.join(
+            output_folder, "wagon_wheel_summery.csv"), index=False)
+        batting_head_to_head_df.to_csv(os.path.join(
+            output_folder, "batting_head_to_head.csv"), index=False)
+        bowling_head_to_head_df.to_csv(os.path.join(
+            output_folder, "bowling_head_to_head.csv"), index=False)
+
+        return True
 
 
 stats_class = DQModule()
