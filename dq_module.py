@@ -28,6 +28,7 @@ class DQModule:
         self.match_urls = {}
 
     def get_data(self) -> None:
+        """this function is the master controller"""
         try:
             match_details_url = self.urls['baseUrl'] + \
                 self.urls['onMatchLinks']
@@ -52,6 +53,7 @@ class DQModule:
             pprint(e)
 
     def get_match_details(self, match_details_url) -> any:
+        """this function gets match schedules from AWS"""
         try:
             results = requests.get(match_details_url, timeout=1500)
             cleaned_data_str = results.content.decode(
@@ -69,6 +71,7 @@ class DQModule:
             return False
 
     def get_match_ids(self) -> any:
+        """this function gets the match ids from aws"""
         try:
             collection = self.db["schedules"]
             matches = collection.find()
@@ -82,6 +85,7 @@ class DQModule:
             print("Exception occured while getting match history from database", e)
 
     def configure_match_urls(self) -> bool:
+        """this function configures static urls as per the match ids"""
         urls = self.urls
         match_urls = {}
         for item in self.match_ids:
@@ -94,6 +98,7 @@ class DQModule:
         return True
 
     def get_match_data_by_urls(self) -> bool:
+        """this function pulls data from aws services """
         base_url = self.urls.get("baseUrl")
         total_innings_data = []
         try:
@@ -119,6 +124,8 @@ class DQModule:
             return False
 
     def convert_to_dataframe(self) -> bool:
+        """this function converts the innings data present in the mongodb to different dataframes"""
+
         collection = self.db[self.config['MongoDB']['innings']]
         documents = collection.find()
 
@@ -141,55 +148,83 @@ class DQModule:
         wagon_wheel_summery_all = []
         batting_head_to_head_all = []
         bowling_head_to_head_all = []
+
         for document in documents:
             batting_card = document['Innings1']['BattingCard'] if 'Innings1' in document and 'BattingCard' in document[
                 'Innings1'] else document['Innings2']['BattingCard']
-            batting_card_all.append(batting_card)
+            batting_card_df_s = pd.DataFrame(batting_card)
+            batting_card_all.append(batting_card_df_s)
+
             extras = document['Innings1']['Extras'] if 'Innings1' in document and 'Extras' in document['Innings1'] else document['Innings2']['Extras']
-            extras_all.append(extras)
+            extras_df_s = pd.DataFrame(extras)
+            extras_all.append(extras_df_s)
+
             fall_of_wickets = document['Innings1']['FallOfWickets'] if 'Innings1' in document and 'FallOfWickets' in document[
                 'Innings1'] else document['Innings2']['FallOfWickets']
-            fall_of_wickets_all.append(fall_of_wickets)
+            fall_of_wickets_df_s = pd.DataFrame(fall_of_wickets)
+            fall_of_wickets_all.append(fall_of_wickets_df_s)
+
             wagon_wheel = document['Innings1']['WagonWheel'] if 'Innings1' in document and 'WagonWheel' in document[
                 'Innings1'] else document['Innings2']['WagonWheel']
-            wagon_wheel_all.append(wagon_wheel)
+            wagon_wheel_df_s = pd.DataFrame(wagon_wheel)
+            wagon_wheel_all.append(wagon_wheel_df_s)
+
             partnership_scores = document['Innings1']['PartnershipScores'] if 'Innings1' in document and 'PartnershipScores' in document[
                 'Innings1'] else document['Innings2']['PartnershipScores']
-            partnership_scores_all.append(partnership_scores)
+            partnership_scores_df_s = pd.DataFrame(partnership_scores)
+            partnership_scores_all.append(partnership_scores_df_s)
+
             bowling_card = document['Innings1']['BowlingCard'] if 'Innings1' in document and 'BowlingCard' in document[
                 'Innings1'] else document['Innings2']['BowlingCard']
-            bowling_card_all.append(bowling_card)
+            bowling_card_df_s = pd.DataFrame(bowling_card)
+            bowling_card_all.append(bowling_card_df_s)
+
             manhattan_graph = document['Innings1']['ManhattanGraph'] if 'Innings1' in document and 'ManhattanGraph' in document[
                 'Innings1'] else document['Innings2']['ManhattanGraph']
-            manhattan_graph_all.append(manhattan_graph)
+            manhattan_graph_df_s = pd.DataFrame(manhattan_graph)
+            manhattan_graph_all.append(manhattan_graph_df_s)
+
             manhattan_wickets = document['Innings1']['ManhattanWickets'] if 'Innings1' in document and 'ManhattanWickets' in document[
                 'Innings1'] else document['Innings2']['ManhattanWickets']
-            manhattan_wickets_all.append(manhattan_wickets)
+            manhattan_wickets_df_s = pd.DataFrame(manhattan_wickets)
+            manhattan_wickets_all.append(manhattan_wickets_df_s)
+
             over_history = document['Innings1']['OverHistory'] if 'Innings1' in document and 'OverHistory' in document[
                 'Innings1'] else document['Innings2']['OverHistory']
-            over_history_all.append(over_history)
+            over_history_df_s = pd.DataFrame(over_history)
+            over_history_all.append(over_history_df_s)
+
             wagon_wheel_summery = document['Innings1']['WagonWheelSummary'] if 'Innings1' in document and 'WagonWheelSummary' in document[
                 'Innings1'] else document['Innings2']['WagonWheelSummary']
-            wagon_wheel_summery_all.append(wagon_wheel_summery)
+            wagon_wheel_summery_df_s = pd.DataFrame(wagon_wheel_summery)
+            wagon_wheel_summery_all.append(wagon_wheel_summery_df_s)
+
             batting_head_to_head = document['Innings1']['battingheadtohead'] if 'Innings1' in document and 'battingheadtohead' in document[
                 'Innings1'] else document['Innings2']['battingheadtohead']
-            batting_head_to_head_all.append(batting_head_to_head)
+            batting_head_to_head_df_s = pd.DataFrame(batting_head_to_head)
+            batting_head_to_head_all.append(batting_head_to_head_df_s)
+
             bowling_head_to_head = document['Innings1']['bowlingheadtohead'] if 'Innings1' in document and 'bowlingheadtohead' in document[
                 'Innings1'] else document['Innings2']['bowlingheadtohead']
-            bowling_head_to_head_all.append(bowling_head_to_head)
+            bowling_head_to_head_df_s = pd.DataFrame(bowling_head_to_head)
+            bowling_head_to_head_all.append(bowling_head_to_head_df_s)
 
-        batting_card_df = pd.DataFrame(batting_card_all)
-        extras_df = pd.DataFrame(extras_all)
-        fall_of_wickets_df = pd.DataFrame(fall_of_wickets_all)
-        wagon_wheel_df = pd.DataFrame(wagon_wheel_all)
-        partnership_scores_df = pd.DataFrame(partnership_scores_all)
-        bowling_card_df = pd.DataFrame(bowling_card_all)
-        manhattan_graph_df = pd.DataFrame(manhattan_graph_all)
-        manhattan_wickets_df = pd.DataFrame(manhattan_wickets_all)
-        over_history_df = pd.DataFrame(over_history_all)
-        wagon_wheel_summery_df = pd.DataFrame(wagon_wheel_summery_all)
-        batting_head_to_head_df = pd.DataFrame(batting_head_to_head_all)
-        bowling_head_to_head_df = pd.DataFrame(bowling_head_to_head_all)
+        batting_card_df = pd.concat(batting_card_all, ignore_index=True)
+        extras_df = pd.concat(extras_all, ignore_index=True)
+        fall_of_wickets_df = pd.concat(fall_of_wickets_all, ignore_index=True)
+        wagon_wheel_df = pd.concat(wagon_wheel_all, ignore_index=True)
+        partnership_scores_df = pd.concat(
+            partnership_scores_all, ignore_index=True)
+        bowling_card_df = pd.concat(bowling_card_all, ignore_index=True)
+        manhattan_graph_df = pd.concat(manhattan_graph_all, ignore_index=True)
+        manhattan_wickets_df = pd.concat(
+            manhattan_wickets_all, ignore_index=True)
+        over_history_df = pd.concat(over_history_all, ignore_index=True)
+        wagon_wheel_summery_df = pd.concat(wagon_wheel_all, ignore_index=True)
+        batting_head_to_head_df = pd.concat(
+            batting_head_to_head_all, ignore_index=True)
+        bowling_head_to_head_df = pd.concat(
+            bowling_head_to_head_all, ignore_index=True)
 
         batting_card_df.to_csv(os.path.join(
             output_folder, "batting_card.csv"), index=False)
