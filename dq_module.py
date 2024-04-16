@@ -38,13 +38,13 @@ class DQModule:
             if match_details:
                 pprint("schedules acquired")
                 pprint("Fetching schedules")
-                # self.get_match_ids()
+                self.get_match_ids()
 
                 print("match ids acquired \n configuring new urls")
 
-                # self.configure_match_urls()
+                self.configure_match_urls()
                 print("urls configured \n fetching data by new url")
-                # self.get_match_data_by_urls()
+                self.get_match_data_by_urls()
                 # converting to dataframe
                 print("Converting to dataframe")
                 self.convert_to_dataframe()
