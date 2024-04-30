@@ -105,7 +105,7 @@ class DQModule:
             for key, value in tqdm(self.match_urls.items(), desc="Processing URLs"):
                 complete_url = base_url + value
 
-                results = requests.get(complete_url, timeout=1500)
+                results = requests.get(complete_url, timeout=15000)
                 cleaned_data_str = results.content.decode(
                     "utf-8").replace("onScoring(", "").rstrip(");'")
                 # print(cleaned_data_str)

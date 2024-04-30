@@ -1,0 +1,1123 @@
+InningsNo,OverNo,BattingTeamID,OutBatsman,OutDesc,BatsmanRuns,BatsmanBalls
+1,4,19,Rajat Patidar,c MS Dhoni b Mustafizur Rahman,0,3
+1,4,19,Faf Du Plessis,c Rachin Ravindra b Mustafizur Rahman,35,23
+1,5,19,Glenn Maxwell,c MS Dhoni b Deepak Chahar,0,1
+1,11,19,Cameron Green,b Mustafizur Rahman,18,22
+1,11,19,Virat Kohli,c Rachin Ravindra b Mustafizur Rahman,21,20
+1,19,19,Anuj Rawat,ro (MS Dhoni),48,25
+2,3,13,Ruturaj Gaikwad,c Cameron Green b Yash Dayal,15,15
+2,6,13,Rachin Ravindra,c Rajat Patidar b Karn Sharma,37,15
+2,10,13,Ajinkya Rahane,c Glenn Maxwell b Cameron Green,27,19
+2,12,13,Daryl Mitchell,c Rajat Patidar b Cameron Green,22,18
+1,4,19,Rajat Patidar,c MS Dhoni b Mustafizur Rahman,0,3
+1,4,19,Faf Du Plessis,c Rachin Ravindra b Mustafizur Rahman,35,23
+1,5,19,Glenn Maxwell,c MS Dhoni b Deepak Chahar,0,1
+1,11,19,Virat Kohli,c Rachin Ravindra b Mustafizur Rahman,21,20
+1,11,19,Cameron Green,b Mustafizur Rahman,18,22
+1,19,19,Anuj Rawat,ro (MS Dhoni),48,25
+2,3,13,Ruturaj Gaikwad,c Cameron Green b Yash Dayal,15,15
+2,6,13,Rachin Ravindra,c Rajat Patidar b Karn Sharma,37,15
+2,10,13,Ajinkya Rahane,c Glenn Maxwell b Cameron Green,27,19
+2,12,13,Daryl Mitchell,c Rajat Patidar b Cameron Green,22,18
+1,3,14,Mitchell Marsh,c Rahul Chahar b Arshdeep Singh,20,12
+1,7,14,David Warner,c Jitesh Sharma b Harshal Patel,29,21
+1,10,14,Shai Hope,c Harpreet Brar b Kagiso Rabada,33,25
+1,12,14,Rishabh Pant,c Jonny Bairstow b Harshal Patel,18,13
+1,13,14,Ricky Bhui,c Jitesh Sharma b Harpreet Brar,3,7
+1,15,14,Tristan Stubbs,c Shashank Singh b Rahul Chahar,5,8
+1,17,14,Axar Patel,ro (Tanay Thyagarajan),21,13
+1,18,14,Sumit Kumar,c Jitesh Sharma b Arshdeep Singh,2,9
+1,19,14,Kuldeep Yadav,ro (Shashank Singh),1,2
+2,3,15,Jonny Bairstow,ro (Ishant Sharma),9,3
+2,3,15,Shikhar Dhawan,b Ishant Sharma,22,16
+2,9,15,Prabhsimran Singh,c David Warner b Kuldeep Yadav,26,17
+2,11,15,Jitesh Sharma,st Rishabh Pant b Kuldeep Yadav,9,9
+2,18,15,Sam Curran,b Khaleel Ahmed,63,47
+2,18,15,Shashank Singh,c Rishabh Pant b Khaleel Ahmed,0,1
+1,3,14,Mitchell Marsh,c Rahul Chahar b Arshdeep Singh,20,12
+1,7,14,David Warner,c Jitesh Sharma b Harshal Patel,29,21
+1,10,14,Shai Hope,c Harpreet Brar b Kagiso Rabada,33,25
+1,12,14,Rishabh Pant,c Jonny Bairstow b Harshal Patel,18,13
+1,13,14,Ricky Bhui,c Jitesh Sharma b Harpreet Brar,3,7
+1,15,14,Tristan Stubbs,c Shashank Singh b Rahul Chahar,5,8
+1,17,14,Axar Patel,ro (Tanay Thyagarajan),21,13
+1,18,14,Sumit Kumar,c Jitesh Sharma b Arshdeep Singh,2,9
+1,19,14,Kuldeep Yadav,ro (Shashank Singh),1,2
+2,3,15,Shikhar Dhawan,b Ishant Sharma,22,16
+2,3,15,Jonny Bairstow,ro (Ishant Sharma),9,3
+2,9,15,Prabhsimran Singh,c David Warner b Kuldeep Yadav,26,17
+2,11,15,Jitesh Sharma,st Rishabh Pant b Kuldeep Yadav,9,9
+2,18,15,Sam Curran,b Khaleel Ahmed,63,47
+2,18,15,Shashank Singh,c Rishabh Pant b Khaleel Ahmed,0,1
+1,1,16,Sunil Narine,ro (Shahbaz Ahmed),2,4
+1,3,16,Shreyas Iyer,c Pat Cummins b T Natarajan,0,2
+1,3,16,Venkatesh Iyer,c Marco Jansen b T Natarajan,7,5
+1,7,16,Nitish Rana,c Rahul Tripathi b Mayank Markande,9,11
+1,12,16,Ramandeep Singh,c Mayank Markande b Pat Cummins,35,16
+1,13,16,Phil Salt,c Marco Jansen b Mayank Markande,54,40
+1,19,16,Rinku Singh,c Aiden Markram b T Natarajan,23,15
+2,5,20,Mayank Agarwal,c Rinku Singh b Harshit Rana,32,21
+2,7,20,Abhishek Sharma,c Varun Chakaravarthy b Andre Russell,32,19
+2,11,20,Aiden Markram,c Rinku Singh b Varun Chakaravarthy,18,13
+2,12,20,Rahul Tripathi,c Harshit Rana b Sunil Narine,20,20
+2,16,20,Abdul Samad,c Venkatesh Iyer b Andre Russell,15,11
+2,19,20,Heinrich Klaasen,c Suyash Sharma b Harshit Rana,63,29
+2,19,20,Shahbaz Ahmed,c Shreyas Iyer b Harshit Rana,16,5
+1,1,16,Sunil Narine,ro (Shahbaz Ahmed),2,4
+1,3,16,Shreyas Iyer,c Pat Cummins b T Natarajan,0,2
+1,3,16,Venkatesh Iyer,c Marco Jansen b T Natarajan,7,5
+1,7,16,Nitish Rana,c Rahul Tripathi b Mayank Markande,9,11
+1,12,16,Ramandeep Singh,c Mayank Markande b Pat Cummins,35,16
+1,13,16,Phil Salt,c Marco Jansen b Mayank Markande,54,40
+1,19,16,Rinku Singh,c Aiden Markram b T Natarajan,23,15
+2,5,20,Mayank Agarwal,c Rinku Singh b Harshit Rana,32,21
+2,7,20,Abhishek Sharma,c Varun Chakaravarthy b Andre Russell,32,19
+2,11,20,Aiden Markram,c Rinku Singh b Varun Chakaravarthy,18,13
+2,12,20,Rahul Tripathi,c Harshit Rana b Sunil Narine,20,20
+2,16,20,Abdul Samad,c Venkatesh Iyer b Andre Russell,15,11
+2,19,20,Heinrich Klaasen,c Suyash Sharma b Harshit Rana,63,29
+2,19,20,Shahbaz Ahmed,c Shreyas Iyer b Harshit Rana,16,5
+1,1,18,Jos Buttler,c KL Rahul b Naveen-Ul-Haq,11,9
+1,4,18,Yashasvi Jaiswal,c Krunal Pandya b Mohsin Khan,24,12
+1,14,18,Riyan Parag,c Deepak Hooda b Naveen-Ul-Haq,43,29
+1,16,18,Shimron Hetmyer,c KL Rahul b Ravi Bishnoi,5,7
+2,0,77,Quinton De Kock,c Nandre Burger b Trent Boult,4,5
+2,2,77,Devdutt Padikkal,b Trent Boult,0,3
+2,3,77,Ayush Badoni,c Jos Buttler b Nandre Burger,1,5
+2,7,77,Deepak Hooda,c Dhruv Jurel b Yuzvendra Chahal,26,13
+2,16,77,KL Rahul,c Dhruv Jurel b Sandeep Sharma,58,44
+2,17,77,Marcus Stoinis,c Dhruv Jurel b Ravichandran Ashwin,3,4
+1,1,18,Jos Buttler,c KL Rahul b Naveen-Ul-Haq,11,9
+1,4,18,Yashasvi Jaiswal,c Krunal Pandya b Mohsin Khan,24,12
+1,14,18,Riyan Parag,c Deepak Hooda b Naveen-Ul-Haq,43,29
+1,16,18,Shimron Hetmyer,c KL Rahul b Ravi Bishnoi,5,7
+2,0,77,Quinton De Kock,c Nandre Burger b Trent Boult,4,5
+2,2,77,Devdutt Padikkal,b Trent Boult,0,3
+2,3,77,Ayush Badoni,c Jos Buttler b Nandre Burger,1,5
+2,7,77,Deepak Hooda,c Dhruv Jurel b Yuzvendra Chahal,26,13
+2,16,77,KL Rahul,c Dhruv Jurel b Sandeep Sharma,58,44
+2,17,77,Marcus Stoinis,c Dhruv Jurel b Ravichandran Ashwin,3,4
+1,3,35,Wriddhiman Saha,b Jasprit Bumrah,19,15
+1,7,35,Shubman Gill,c Rohit Sharma b Piyush Chawla,31,22
+1,11,35,Azmatullah Omarzai,c Tilak Varma b Gerald Coetzee,17,11
+1,16,35,David Miller,c Hardik Pandya b Jasprit Bumrah,12,11
+1,16,35,Sai Sudharsan,c Tilak Varma b Jasprit Bumrah,45,39
+1,19,35,Rahul Tewatia,c Naman Dhir b Gerald Coetzee,22,14
+2,0,17,Ishan Kishan,c Wriddhiman Saha b Azmatullah Omarzai,0,4
+2,2,17,Naman Dhir,lbw Azmatullah Omarzai,20,10
+2,12,17,Rohit Sharma,lbw Sai Kishore,43,29
+2,15,17,Dewald Brevis,c & b Mohit Sharma,46,38
+2,17,17,Tim David,c David Miller b Mohit Sharma,11,10
+2,18,17,Gerald Coetzee,c & b Spencer Johnson,1,3
+2,18,17,Tilak Varma,c Abhinav Manohar b Spencer Johnson,25,19
+2,19,17,Piyush Chawla,c Rashid Khan b Umesh Yadav,0,1
+2,19,17,Hardik Pandya,c Rahul Tewatia b Umesh Yadav,11,4
+1,3,35,Wriddhiman Saha,b Jasprit Bumrah,19,15
+1,7,35,Shubman Gill,c Rohit Sharma b Piyush Chawla,31,22
+1,11,35,Azmatullah Omarzai,c Tilak Varma b Gerald Coetzee,17,11
+1,16,35,David Miller,c Hardik Pandya b Jasprit Bumrah,12,11
+1,16,35,Sai Sudharsan,c Tilak Varma b Jasprit Bumrah,45,39
+1,19,35,Rahul Tewatia,c Naman Dhir b Gerald Coetzee,22,14
+2,0,17,Ishan Kishan,c Wriddhiman Saha b Azmatullah Omarzai,0,4
+2,2,17,Naman Dhir,lbw Azmatullah Omarzai,20,10
+2,12,17,Rohit Sharma,lbw Sai Kishore,43,29
+2,15,17,Dewald Brevis,c & b Mohit Sharma,46,38
+2,17,17,Tim David,c David Miller b Mohit Sharma,11,10
+2,18,17,Tilak Varma,c Abhinav Manohar b Spencer Johnson,25,19
+2,18,17,Gerald Coetzee,c & b Spencer Johnson,1,3
+2,19,17,Piyush Chawla,c Rashid Khan b Umesh Yadav,0,1
+2,19,17,Hardik Pandya,c Rahul Tewatia b Umesh Yadav,11,4
+1,2,15,Jonny Bairstow,c Virat Kohli b Mohammed Siraj,8,6
+1,8,15,Simran Singh,c Anuj Rawat b Glenn Maxwell,25,17
+1,11,15,Liam Livingstone,c Anuj Rawat b Alzarri Joseph,17,13
+1,12,15,Shikhar Dhawan,c Virat Kohli b Glenn Maxwell,45,37
+1,17,15,Sam Curran,c Anuj Rawat b Yash Dayal,23,17
+1,18,15,Jitesh Sharma,c Anuj Rawat b Mohammed Siraj,27,20
+2,2,19,Faf Du Plessis,c Sam Curran b Kagiso Rabada,3,7
+2,4,19,Cameron Green,c Jitesh Sharma b Kagiso Rabada,3,5
+2,10,19,Rajat Patidar,b Harpreet Brar,18,18
+2,12,19,Glenn Maxwell,b Harpreet Brar,3,5
+2,15,19,Virat Kohli,c Harpreet Brar b Harshal Patel,77,49
+2,16,19,Anuj Rawat,lbw Sam Curran,11,14
+1,2,15,Jonny Bairstow,c Virat Kohli b Mohammed Siraj,8,6
+1,8,15,Simran Singh,c Anuj Rawat b Glenn Maxwell,25,17
+1,11,15,Liam Livingstone,c Anuj Rawat b Alzarri Joseph,17,13
+1,12,15,Shikhar Dhawan,c Virat Kohli b Glenn Maxwell,45,37
+1,17,15,Sam Curran,c Anuj Rawat b Yash Dayal,23,17
+1,18,15,Jitesh Sharma,c Anuj Rawat b Mohammed Siraj,27,20
+2,2,19,Faf Du Plessis,c Sam Curran b Kagiso Rabada,3,7
+2,4,19,Cameron Green,c Jitesh Sharma b Kagiso Rabada,3,5
+2,10,19,Rajat Patidar,b Harpreet Brar,18,18
+2,12,19,Glenn Maxwell,b Harpreet Brar,3,5
+2,15,19,Virat Kohli,c Harpreet Brar b Harshal Patel,77,49
+2,16,19,Anuj Rawat,lbw Sam Curran,11,14
+1,5,13,Rachin Ravindra,st Wriddhiman Saha b Rashid Khan,46,20
+1,10,13,Ajinkya Rahane,st Wriddhiman Saha b Sai Kishore,12,12
+1,12,13,Ruturaj Gaikwad,c Wriddhiman Saha b Spencer Johnson,46,36
+1,18,13,Shivam Dube,c Vijay Shankar b Rashid Khan,51,23
+1,19,13,Sameer Rizwi,c David Miller b Mohit Sharma,14,6
+1,19,13,Ravindra Jadeja,ro (Vijay Shankar),7,3
+2,2,35,Shubman Gill,lbw Deepak Chahar,8,5
+2,4,35,Wriddhiman Saha,c Tushar Deshpande b Deepak Chahar,21,17
+2,7,35,Vijay Shankar,c MS Dhoni b Daryl Mitchell,12,12
+2,11,35,David Miller,c Ajinkya Rahane b Tushar Deshpande,21,16
+2,14,35,Sai Sudharsan,c Sameer Rizwi b Matheesha Pathirana,37,31
+2,15,35,Azmatullah Omarzai,c Rachin Ravindra b Tushar Deshpande,11,10
+2,16,35,Rashid Khan,c Rachin Ravindra b Mustafizur Rahman,1,2
+2,18,35,Rahul Tewatia,c Rachin Ravindra b Mustafizur Rahman,6,11
+1,5,13,Rachin Ravindra,st Wriddhiman Saha b Rashid Khan,46,20
+1,10,13,Ajinkya Rahane,st Wriddhiman Saha b Sai Kishore,12,12
+1,12,13,Ruturaj Gaikwad,c Wriddhiman Saha b Spencer Johnson,46,36
+1,18,13,Shivam Dube,c Vijay Shankar b Rashid Khan,51,23
+1,19,13,Ravindra Jadeja,ro (Vijay Shankar),7,3
+1,19,13,Sameer Rizwi,c David Miller b Mohit Sharma,14,6
+2,2,35,Shubman Gill,lbw Deepak Chahar,8,5
+2,4,35,Wriddhiman Saha,c Tushar Deshpande b Deepak Chahar,21,17
+2,7,35,Vijay Shankar,c MS Dhoni b Daryl Mitchell,12,12
+2,11,35,David Miller,c Ajinkya Rahane b Tushar Deshpande,21,16
+2,14,35,Sai Sudharsan,c Sameer Rizwi b Matheesha Pathirana,37,31
+2,15,35,Azmatullah Omarzai,c Rachin Ravindra b Tushar Deshpande,11,10
+2,16,35,Rashid Khan,c Rachin Ravindra b Mustafizur Rahman,1,2
+2,18,35,Rahul Tewatia,c Rachin Ravindra b Mustafizur Rahman,6,11
+1,1,19,Faf Du Plessis,c Mitchell Starc b Harshit Rana,8,6
+1,8,19,Cameron Green,b Andre Russell,33,21
+1,14,19,Glenn Maxwell,c Rinku Singh b Sunil Narine,28,19
+1,16,19,Rajat Patidar,c Rinku Singh b Andre Russell,3,4
+1,17,19,Anuj Rawat,c Phil Salt b Harshit Rana,3,3
+1,19,19,Dinesh Karthik,ro (Phil Salt),20,8
+2,6,16,Sunil Narine,b Mayank Dagar,47,22
+2,7,16,Phil Salt,c Cameron Green b Vyshak Vijaykumar,30,20
+2,15,16,Venkatesh Iyer,c Virat Kohli b Yash Dayal,50,30
+1,1,19,Faf Du Plessis,c Mitchell Starc b Harshit Rana,8,6
+1,8,19,Cameron Green,b Andre Russell,33,21
+1,14,19,Glenn Maxwell,c Rinku Singh b Sunil Narine,28,19
+1,16,19,Rajat Patidar,c Rinku Singh b Andre Russell,3,4
+1,17,19,Anuj Rawat,c Phil Salt b Harshit Rana,3,3
+1,19,19,Dinesh Karthik,ro (Phil Salt),20,8
+2,6,16,Sunil Narine,b Mayank Dagar,47,22
+2,7,16,Phil Salt,c Cameron Green b Vyshak Vijaykumar,30,20
+2,15,16,Venkatesh Iyer,c Virat Kohli b Yash Dayal,50,30
+1,1,18,Yashasvi Jaiswal,b Mukesh Kumar,5,7
+1,5,18,Sanju Samson,c Rishabh Pant b Khaleel Ahmed,15,14
+1,7,18,Jos Buttler,lbw Kuldeep Yadav,11,16
+1,13,18,Ravichandran Ashwin,c Tristan Stubbs b Axar Patel,29,19
+1,17,18,Dhruv Jurel,b Anrich Nortje,20,12
+2,3,14,Ricky Bhui,c Sanju Samson b Nandre Burger,0,2
+2,3,14,Mitchell Marsh,b Nandre Burger,23,12
+2,11,14,David Warner,c Sandeep Sharma b Avesh Khan,49,34
+2,13,14,Rishabh Pant,c Sanju Samson b Yuzvendra Chahal,28,26
+2,15,14,Abishek Porel,c Jos Buttler b Yuzvendra Chahal,9,10
+1,1,18,Yashasvi Jaiswal,b Mukesh Kumar,5,7
+1,5,18,Sanju Samson,c Rishabh Pant b Khaleel Ahmed,15,14
+1,7,18,Jos Buttler,lbw Kuldeep Yadav,11,16
+1,13,18,Ravichandran Ashwin,c Tristan Stubbs b Axar Patel,29,19
+1,17,18,Dhruv Jurel,b Anrich Nortje,20,12
+2,3,14,Ricky Bhui,c Sanju Samson b Nandre Burger,0,2
+2,3,14,Mitchell Marsh,b Nandre Burger,23,12
+2,11,14,David Warner,c Sandeep Sharma b Avesh Khan,49,34
+2,13,14,Rishabh Pant,c Sanju Samson b Yuzvendra Chahal,28,26
+2,15,14,Abishek Porel,c Jos Buttler b Yuzvendra Chahal,9,10
+1,4,20,Mayank Agarwal,c Tim David b Hardik Pandya,11,13
+1,7,20,Travis Head,c Naman Dhir b Gerald Coetzee,62,24
+1,10,20,Abhishek Sharma,c Naman Dhir b Piyush Chawla,63,22
+2,3,17,Ishan Kishan,c Aiden Markram b Shahbaz Ahmed,34,13
+2,4,17,Rohit Sharma,c Abhishek Sharma b Pat Cummins,26,12
+2,10,17,Naman Dhir,c Pat Cummins b Jaydev Unadkat,30,14
+2,14,17,Tilak Varma,c Mayank Agarwal b Pat Cummins,64,33
+2,17,17,Hardik Pandya,c Heinrich Klaasen b Jaydev Unadkat,24,20
+1,4,20,Mayank Agarwal,c Tim David b Hardik Pandya,11,13
+1,7,20,Travis Head,c Naman Dhir b Gerald Coetzee,62,24
+1,10,20,Abhishek Sharma,c Naman Dhir b Piyush Chawla,63,22
+2,3,17,Ishan Kishan,c Aiden Markram b Shahbaz Ahmed,34,13
+2,4,17,Rohit Sharma,c Abhishek Sharma b Pat Cummins,26,12
+2,10,17,Naman Dhir,c Pat Cummins b Jaydev Unadkat,30,14
+2,14,17,Tilak Varma,c Mayank Agarwal b Pat Cummins,64,33
+2,17,17,Hardik Pandya,c Heinrich Klaasen b Jaydev Unadkat,24,20
+1,3,77,K L Rahul,c Jonny Bairstow b Arshdeep Singh,15,9
+1,5,77,Devdutt Padikkal,c Shikhar Dhawan b Sam Curran,9,6
+1,8,77,Marcus Stoinis,b Rahul Chahar,19,12
+1,13,77,Quinton De Kock,c Jitesh Sharma b Arshdeep Singh,54,38
+1,15,77,Nicholas Pooran,b Kagiso Rabada,42,21
+1,18,77,Ravi Bishnoi,c Tanay Thyagarajan b Sam Curran,0,1
+1,18,77,Ayush Badoni,c Jonny Bairstow b Sam Curran,8,10
+1,19,77,Mohsin Khan,ro (Harshal Patel),2,1
+2,11,15,Jonny Bairstow,c Marcus Stoinis b Mayank Yadav,42,29
+2,13,15,Prabhsimran Singh,c Naveen-Ul-Haq b Mayank Yadav,19,7
+2,15,15,Jitesh Sharma,c Naveen-Ul-Haq b Mayank Yadav,6,9
+2,16,15,Shikhar Dhawan,c Quinton De Kock b Mohsin Khan,70,50
+2,16,15,Sam Curran,c Nicholas Pooran b Mohsin Khan,0,1
+1,3,77,K L Rahul,c Jonny Bairstow b Arshdeep Singh,15,9
+1,5,77,Devdutt Padikkal,c Shikhar Dhawan b Sam Curran,9,6
+1,8,77,Marcus Stoinis,b Rahul Chahar,19,12
+1,13,77,Quinton De Kock,c Jitesh Sharma b Arshdeep Singh,54,38
+1,15,77,Nicholas Pooran,b Kagiso Rabada,42,21
+1,18,77,Ravi Bishnoi,c Tanay Thyagarajan b Sam Curran,0,1
+1,18,77,Ayush Badoni,c Jonny Bairstow b Sam Curran,8,10
+1,19,77,Mohsin Khan,ro (Harshal Patel),2,1
+2,11,15,Jonny Bairstow,c Marcus Stoinis b Mayank Yadav,42,29
+2,13,15,Prabhsimran Singh,c Naveen-Ul-Haq b Mayank Yadav,19,7
+2,15,15,Jitesh Sharma,c Naveen-Ul-Haq b Mayank Yadav,6,9
+2,16,15,Sam Curran,c Nicholas Pooran b Mohsin Khan,0,1
+2,16,15,Shikhar Dhawan,c Quinton De Kock b Mohsin Khan,70,50
+1,4,20,Mayank Agarwal,c Darshan Nalkande b Azmatullah Omarzai,16,17
+1,6,20,Travis Head,b Noor Ahmad,19,14
+1,9,20,Abhishek Sharma,c Shubman Gill b Mohit Sharma,29,20
+1,13,20,Heinrich Klaasen,b Rashid Khan,24,13
+1,14,20,Aiden Markram,c Rashid Khan b Umesh Yadav,17,19
+1,19,20,Shahbaz Ahmed,c Rahul Tewatia b Mohit Sharma,22,20
+1,19,20,Abdul Samad,ro (Noor Ahmad),29,14
+1,19,20,Washington Sundar,c Rashid Khan b Mohit Sharma,0,1
+2,4,35,Wriddhiman Saha,c Pat Cummins b Shahbaz Ahmed,25,13
+2,9,35,Shubman Gill,c Abdul Samad b Mayank Markande,36,28
+2,16,35,Sai Sudharsan,c Abhishek Sharma b Pat Cummins,45,36
+1,4,20,Mayank Agarwal,c Darshan Nalkande b Azmatullah Omarzai,16,17
+1,6,20,Travis Head,b Noor Ahmad,19,14
+1,9,20,Abhishek Sharma,c Shubman Gill b Mohit Sharma,29,20
+1,13,20,Heinrich Klaasen,b Rashid Khan,24,13
+1,14,20,Aiden Markram,c Rashid Khan b Umesh Yadav,17,19
+1,19,20,Washington Sundar,c Rashid Khan b Mohit Sharma,0,1
+1,19,20,Shahbaz Ahmed,c Rahul Tewatia b Mohit Sharma,22,20
+1,19,20,Abdul Samad,ro (Noor Ahmad),29,14
+2,4,35,Wriddhiman Saha,c Pat Cummins b Shahbaz Ahmed,25,13
+2,9,35,Shubman Gill,c Abdul Samad b Mayank Markande,36,28
+2,16,35,Sai Sudharsan,c Abhishek Sharma b Pat Cummins,45,36
+1,9,14,David Warner,c Matheesha Pathirana b Mustafizur Rahman,52,34
+1,10,14,Prithvi Shaw,c MS Dhoni b Ravindra Jadeja,43,27
+1,14,14,Tristan Stubbs,b Matheesha Pathirana,0,2
+1,14,14,Mitchell Marsh,b Matheesha Pathirana,18,12
+1,18,14,Rishabh Pant,c Ruturaj Gaikwad b Matheesha Pathirana,51,32
+2,0,13,Ruturaj Gaikwad,c Rishabh Pant b Khaleel Ahmed,1,2
+2,2,13,Rachin Ravindra,c Tristan Stubbs b Khaleel Ahmed,2,12
+2,10,13,Daryl Mitchell,c & b Axar Patel,34,26
+2,13,13,Sameer Rizwi,c Khaleel Ahmed b Mukesh Kumar,0,1
+2,13,13,Ajinkya Rahane,c David Warner b Mukesh Kumar,45,30
+2,16,13,Shivam Dube,c Tristan Stubbs b Mukesh Kumar,18,16
+1,9,14,David Warner,c Matheesha Pathirana b Mustafizur Rahman,52,34
+1,10,14,Prithvi Shaw,c MS Dhoni b Ravindra Jadeja,43,27
+1,14,14,Tristan Stubbs,b Matheesha Pathirana,0,2
+1,14,14,Mitchell Marsh,b Matheesha Pathirana,18,12
+1,18,14,Rishabh Pant,c Ruturaj Gaikwad b Matheesha Pathirana,51,32
+2,0,13,Ruturaj Gaikwad,c Rishabh Pant b Khaleel Ahmed,1,2
+2,2,13,Rachin Ravindra,c Tristan Stubbs b Khaleel Ahmed,2,12
+2,10,13,Daryl Mitchell,c & b Axar Patel,34,26
+2,13,13,Sameer Rizwi,c Khaleel Ahmed b Mukesh Kumar,0,1
+2,13,13,Ajinkya Rahane,c David Warner b Mukesh Kumar,45,30
+2,16,13,Shivam Dube,c Tristan Stubbs b Mukesh Kumar,18,16
+1,0,17,Naman Dhir,lbw Trent Boult,0,1
+1,0,17,Rohit Sharma,c Sanju Samson b Trent Boult,0,1
+1,2,17,Dewald Brevis,c Nandre Burger b Trent Boult,0,1
+1,3,17,Ishan Kishan,c Sanju Samson b Nandre Burger,16,14
+1,9,17,Hardik Pandya,c Rovman Powell b Yuzvendra Chahal,34,21
+1,11,17,Piyush Chawla,c Shimron Hetmyer b Avesh Khan,3,6
+1,13,17,Tilak Varma,c Ravichandran Ashwin b Yuzvendra Chahal,32,29
+1,16,17,Gerald Coetzee,c Shimron Hetmyer b Yuzvendra Chahal,4,9
+1,18,17,Tim David,c Trent Boult b Nandre Burger,17,24
+2,0,18,Yashasvi Jaiswal,c Tim David b Kwena Maphaka,10,6
+2,4,18,Sanju Samson,b Akash Madhwal,12,10
+2,6,18,Jos Buttler,c Piyush Chawla b Akash Madhwal,13,16
+2,12,18,Ravichandran Ashwin,c Tilak Varma b Akash Madhwal,16,16
+1,0,17,Naman Dhir,lbw Trent Boult,0,1
+1,0,17,Rohit Sharma,c Sanju Samson b Trent Boult,0,1
+1,2,17,Dewald Brevis,c Nandre Burger b Trent Boult,0,1
+1,3,17,Ishan Kishan,c Sanju Samson b Nandre Burger,16,14
+1,9,17,Hardik Pandya,c Rovman Powell b Yuzvendra Chahal,34,21
+1,11,17,Piyush Chawla,c Shimron Hetmyer b Avesh Khan,3,6
+1,13,17,Tilak Varma,c Ravichandran Ashwin b Yuzvendra Chahal,32,29
+1,16,17,Gerald Coetzee,c Shimron Hetmyer b Yuzvendra Chahal,4,9
+1,18,17,Tim David,c Trent Boult b Nandre Burger,17,24
+2,0,18,Yashasvi Jaiswal,c Tim David b Kwena Maphaka,10,6
+2,4,18,Sanju Samson,b Akash Madhwal,12,10
+2,6,18,Jos Buttler,c Piyush Chawla b Akash Madhwal,13,16
+2,12,18,Ravichandran Ashwin,c Tilak Varma b Akash Madhwal,16,16
+1,5,77,KL Rahul,c Mayank Dagar b Glenn Maxwell,20,14
+1,8,77,Devdutt Padikkal,c Anuj Rawat b Mohammed Siraj,6,11
+1,13,77,Marcus Stoinis,c Mayank Dagar b Glenn Maxwell,24,15
+1,16,77,Quinton De Kock,c Mayank Dagar b Reece Topley,81,56
+1,17,77,Ayush Badoni,c Faf Du Plessis b Yash Dayal,0,3
+2,4,19,Virat Kohli,c Devdutt Padikkal b M Siddharth,22,16
+2,5,19,Glenn Maxwell,c Nicholas Pooran b Mayank Yadav,0,2
+2,5,19,Faf Du Plessis,ro (Devdutt Padikkal),19,13
+2,7,19,Cameron Green,b Mayank Yadav,9,9
+2,12,19,Anuj Rawat,c Devdutt Padikkal b Marcus Stoinis,11,21
+2,14,19,Rajat Patidar,c Devdutt Padikkal b Mayank Yadav,29,21
+2,16,19,Dinesh Karthik,c KL Rahul b Naveen-Ul-Haq,4,8
+2,17,19,Mahipal Lomror,c Nicholas Pooran b Yash Thakur,33,13
+2,17,19,Mayank Dagar,ro (Nicholas Pooran),0,1
+2,19,19,Mohammed Siraj,c Nicholas Pooran b Naveen-Ul-Haq,12,8
+1,5,77,KL Rahul,c Mayank Dagar b Glenn Maxwell,20,14
+1,8,77,Devdutt Padikkal,c Anuj Rawat b Mohammed Siraj,6,11
+1,13,77,Marcus Stoinis,c Mayank Dagar b Glenn Maxwell,24,15
+1,16,77,Quinton De Kock,c Mayank Dagar b Reece Topley,81,56
+1,17,77,Ayush Badoni,c Faf Du Plessis b Yash Dayal,0,3
+2,4,19,Virat Kohli,c Devdutt Padikkal b M Siddharth,22,16
+2,5,19,Glenn Maxwell,c Nicholas Pooran b Mayank Yadav,0,2
+2,5,19,Faf Du Plessis,ro (Devdutt Padikkal),19,13
+2,7,19,Cameron Green,b Mayank Yadav,9,9
+2,12,19,Anuj Rawat,c Devdutt Padikkal b Marcus Stoinis,11,21
+2,14,19,Rajat Patidar,c Devdutt Padikkal b Mayank Yadav,29,21
+2,16,19,Dinesh Karthik,c KL Rahul b Naveen-Ul-Haq,4,8
+2,17,19,Mahipal Lomror,c Nicholas Pooran b Yash Thakur,33,13
+2,17,19,Mayank Dagar,ro (Nicholas Pooran),0,1
+2,19,19,Mohammed Siraj,c Nicholas Pooran b Naveen-Ul-Haq,12,8
+1,4,16,Phil Salt,c Tristan Stubbs b Anrich Nortje,18,12
+1,12,16,Sunil Narine,c Rishabh Pant b Mitchell Marsh,85,39
+1,13,16,Angkrish Raghuvanshi,c Ishant Sharma b Anrich Nortje,54,27
+1,17,16,Shreyas Iyer,c Tristan Stubbs b Khaleel Ahmed,18,11
+1,18,16,Rinku Singh,c David Warner b Anrich Nortje,26,7
+1,19,16,Andre Russell,b Ishant Sharma,41,19
+1,19,16,Ramandeep Singh,c Prithvi Shaw b Ishant Sharma,2,2
+2,1,14,Prithvi Shaw,c Varun Chakaravarthy b Vaibhav Arora,10,7
+2,2,14,Mitchell Marsh,c Ramandeep Singh b Mitchell Starc,0,2
+2,3,14,Abishek Porel,c Sunil Narine b Vaibhav Arora,0,5
+2,4,14,David Warner,b Mitchell Starc,18,13
+2,12,14,Rishabh Pant,c Shreyas Iyer b Varun Chakaravarthy,55,25
+2,12,14,Axar Patel,c Manish Pandey b Varun Chakaravarthy,0,1
+2,14,14,Tristan Stubbs,c Mitchell Starc b Varun Chakaravarthy,54,31
+2,15,14,Sumit Kumar,c Manish Pandey b Sunil Narine,7,6
+2,16,14,Rasikh Salam,c Phil Salt b Vaibhav Arora,1,5
+2,17,14,Anrich Nortje,c Shreyas Iyer b Andre Russell,4,6
+1,4,16,Phil Salt,c Tristan Stubbs b Anrich Nortje,18,12
+1,12,16,Sunil Narine,c Rishabh Pant b Mitchell Marsh,85,39
+1,13,16,Angkrish Raghuvanshi,c Ishant Sharma b Anrich Nortje,54,27
+1,17,16,Shreyas Iyer,c Tristan Stubbs b Khaleel Ahmed,18,11
+1,18,16,Rinku Singh,c David Warner b Anrich Nortje,26,7
+1,19,16,Andre Russell,b Ishant Sharma,41,19
+1,19,16,Ramandeep Singh,c Prithvi Shaw b Ishant Sharma,2,2
+2,1,14,Prithvi Shaw,c Varun Chakaravarthy b Vaibhav Arora,10,7
+2,2,14,Mitchell Marsh,c Ramandeep Singh b Mitchell Starc,0,2
+2,3,14,Abishek Porel,c Sunil Narine b Vaibhav Arora,0,5
+2,4,14,David Warner,b Mitchell Starc,18,13
+2,12,14,Axar Patel,c Manish Pandey b Varun Chakaravarthy,0,1
+2,12,14,Rishabh Pant,c Shreyas Iyer b Varun Chakaravarthy,55,25
+2,14,14,Tristan Stubbs,c Mitchell Starc b Varun Chakaravarthy,54,31
+2,15,14,Sumit Kumar,c Manish Pandey b Sunil Narine,7,6
+2,16,14,Rasikh Salam,c Phil Salt b Vaibhav Arora,1,5
+2,17,14,Anrich Nortje,c Shreyas Iyer b Andre Russell,4,6
+1,2,35,Wriddhiman Saha,c Shikhar Dhawan b Kagiso Rabada,11,13
+1,8,35,Kane Williamson,c Jonny Bairstow b Harpreet Brar,26,22
+1,13,35,Sai Sudharsan,c Jitesh Sharma b Harshal Patel,33,19
+1,17,35,Vijay Shankar,c Harpreet Brar b Kagiso Rabada,8,10
+2,1,15,Shikhar Dhawan,b Umesh Yadav,1,2
+2,5,15,Jonny Bairstow,b Noor Ahmad,22,13
+2,7,15,Prabhsimran Singh,c Mohit Sharma b Noor Ahmad,35,24
+2,8,15,Sam Curran,c Kane Williamson b Azmatullah Omarzai,5,8
+2,12,15,Sikandar Raza,c Wriddhiman Saha b Mohit Sharma,15,16
+2,15,15,Jitesh Sharma,c Darshan Nalkande b Rashid Khan,16,8
+2,19,15,Ashutosh Sharma,c Rashid Khan b Darshan Nalkande,31,17
+1,2,35,Wriddhiman Saha,c Shikhar Dhawan b Kagiso Rabada,11,13
+1,8,35,Kane Williamson,c Jonny Bairstow b Harpreet Brar,26,22
+1,13,35,Sai Sudharsan,c Jitesh Sharma b Harshal Patel,33,19
+1,17,35,Vijay Shankar,c Harpreet Brar b Kagiso Rabada,8,10
+2,1,15,Shikhar Dhawan,b Umesh Yadav,1,2
+2,5,15,Jonny Bairstow,b Noor Ahmad,22,13
+2,7,15,Prabhsimran Singh,c Mohit Sharma b Noor Ahmad,35,24
+2,8,15,Sam Curran,c Kane Williamson b Azmatullah Omarzai,5,8
+2,12,15,Sikandar Raza,c Wriddhiman Saha b Mohit Sharma,15,16
+2,15,15,Jitesh Sharma,c Darshan Nalkande b Rashid Khan,16,8
+2,19,15,Ashutosh Sharma,c Rashid Khan b Darshan Nalkande,31,17
+1,3,13,Rachin Ravindra,c Aiden Markram b Bhuvneshwar Kumar,12,9
+1,7,13,Ruturaj Gaikwad,c Abdul Samad b Shahbaz Ahmed,26,21
+1,13,13,Shivam Dube,c Bhuvneshwar Kumar b Pat Cummins,45,24
+1,14,13,Ajinkya Rahane,c Mayank Markande b Jaydev Unadkat,35,30
+1,19,13,Daryl Mitchell,c Abdul Samad b T Natarajan,13,11
+2,2,20,Abhishek Sharma,c Ravindra Jadeja b Deepak Chahar,37,11
+2,9,20,Travis Head,c Rachin Ravindra b Maheesh Theekshana,31,24
+2,13,20,Aiden Markram,lbw Moeen Ali,50,36
+2,15,20,Shahbaz Ahmed,lbw Moeen Ali,18,19
+1,3,13,Rachin Ravindra,c Aiden Markram b Bhuvneshwar Kumar,12,9
+1,7,13,Ruturaj Gaikwad,c Abdul Samad b Shahbaz Ahmed,26,21
+1,13,13,Shivam Dube,c Bhuvneshwar Kumar b Pat Cummins,45,24
+1,14,13,Ajinkya Rahane,c Mayank Markande b Jaydev Unadkat,35,30
+1,19,13,Daryl Mitchell,c Abdul Samad b T Natarajan,13,11
+2,2,20,Abhishek Sharma,c Ravindra Jadeja b Deepak Chahar,37,11
+2,9,20,Travis Head,c Rachin Ravindra b Maheesh Theekshana,31,24
+2,13,20,Aiden Markram,lbw Moeen Ali,50,36
+2,15,20,Shahbaz Ahmed,lbw Moeen Ali,18,19
+1,6,17,Rohit Sharma,b Axar Patel,49,27
+1,7,17,Suryakumar Yadav,c Jake Fraser-McGurk b Anrich Nortje,0,2
+1,10,17,Ishan Kishan,c & b Axar Patel,42,23
+1,12,17,Tilak Varma,c Axar Patel b Khaleel Ahmed,6,5
+1,17,17,Hardik Pandya,c Jake Fraser-McGurk b Anrich Nortje,39,33
+2,3,14,David Warner,c Hardik Pandya b Romario Shepherd,10,8
+2,11,14,Prithvi Shaw,b Jasprit Bumrah,66,40
+2,14,14,Abishek Porel,c Tim David b Jasprit Bumrah,41,31
+2,15,14,Rishabh Pant,c Hardik Pandya b Gerald Coetzee,1,3
+2,18,14,Axar Patel,ro (Mohammad Nabi),8,7
+2,19,14,Kumar Kushagra,c Tilak Varma b Gerald Coetzee,0,1
+2,19,14,Lalit Yadav,c Ishan Kishan b Gerald Coetzee,3,4
+2,19,14,Jhye Richardson,c Rohit Sharma b Gerald Coetzee,2,2
+1,6,17,Rohit Sharma,b Axar Patel,49,27
+1,7,17,Suryakumar Yadav,c Jake Fraser-McGurk b Anrich Nortje,0,2
+1,10,17,Ishan Kishan,c & b Axar Patel,42,23
+1,12,17,Tilak Varma,c Axar Patel b Khaleel Ahmed,6,5
+1,17,17,Hardik Pandya,c Jake Fraser-McGurk b Anrich Nortje,39,33
+2,3,14,David Warner,c Hardik Pandya b Romario Shepherd,10,8
+2,11,14,Prithvi Shaw,b Jasprit Bumrah,66,40
+2,14,14,Abishek Porel,c Tim David b Jasprit Bumrah,41,31
+2,15,14,Rishabh Pant,c Hardik Pandya b Gerald Coetzee,1,3
+2,18,14,Axar Patel,ro (Mohammad Nabi),8,7
+2,19,14,Kumar Kushagra,c Tilak Varma b Gerald Coetzee,0,1
+2,19,14,Lalit Yadav,c Ishan Kishan b Gerald Coetzee,3,4
+2,19,14,Jhye Richardson,c Rohit Sharma b Gerald Coetzee,2,2
+1,13,19,Faf Du Plessis,c Jos Buttler b Yuzvendra Chahal,44,33
+1,14,19,Glenn Maxwell,b Nandre Burger,1,3
+1,17,19,Saurav Chauhan,c Yashasvi Jaiswal b Yuzvendra Chahal,9,6
+2,0,18,Yashasvi Jaiswal,c Glenn Maxwell b Reece Topley,0,2
+2,14,18,Sanju Samson,c Yash Dayal b Mohammed Siraj,69,42
+2,15,18,Riyan Parag,c Virat Kohli b Yash Dayal,4,4
+2,16,18,Dhruv Jurel,c Dinesh Karthik b Reece Topley,2,3
+1,13,19,Faf Du Plessis,c Jos Buttler b Yuzvendra Chahal,44,33
+1,14,19,Glenn Maxwell,b Nandre Burger,1,3
+1,17,19,Saurav Chauhan,c Yashasvi Jaiswal b Yuzvendra Chahal,9,6
+2,0,18,Yashasvi Jaiswal,c Glenn Maxwell b Reece Topley,0,2
+2,14,18,Sanju Samson,c Yash Dayal b Mohammed Siraj,69,42
+2,15,18,Riyan Parag,c Virat Kohli b Yash Dayal,4,4
+2,16,18,Dhruv Jurel,c Dinesh Karthik b Reece Topley,2,3
+1,0,77,Quinton De Kock,c Noor Ahmad b Umesh Yadav,6,4
+1,2,77,Devdutt Padikkal,c Vijay Shankar b Umesh Yadav,7,7
+1,12,77,K L Rahul,c Rahul Tewatia b Darshan Nalkande,33,31
+1,14,77,Marcus Stoinis,c B R Sharath b Darshan Nalkande,58,43
+1,18,77,Ayush Badoni,c Umesh Yadav b Rashid Khan,20,11
+2,5,35,Shubman Gill,b Yash Thakur,19,21
+2,7,35,Kane Williamson,c & b Ravi Bishnoi,1,5
+2,8,35,B R Sharath,c Ayush Badoni b Krunal Pandya,2,5
+2,8,35,Sai Sudharsan,c Ravi Bishnoi b Krunal Pandya,31,20
+2,12,35,Darshan Nalkande,c Yash Thakur b Krunal Pandya,12,11
+2,14,35,Rashid Khan,c Deepak Hooda b Yash Thakur,0,3
+2,14,35,Vijay Shankar,c K L Rahul b Yash Thakur,17,17
+2,15,35,Umesh Yadav,c Quinton De Kock b Naveen-Ul-Haq,2,4
+2,18,35,Noor Ahmad,c Quinton De Kock b Yash Thakur,4,2
+2,18,35,Rahul Tewatia,c Nicholas Pooran b Yash Thakur,30,24
+1,0,77,Quinton De Kock,c Noor Ahmad b Umesh Yadav,6,4
+1,2,77,Devdutt Padikkal,c Vijay Shankar b Umesh Yadav,7,7
+1,12,77,K L Rahul,c Rahul Tewatia b Darshan Nalkande,33,31
+1,14,77,Marcus Stoinis,c B R Sharath b Darshan Nalkande,58,43
+1,18,77,Ayush Badoni,c Umesh Yadav b Rashid Khan,20,11
+2,5,35,Shubman Gill,b Yash Thakur,19,21
+2,7,35,Kane Williamson,c & b Ravi Bishnoi,1,5
+2,8,35,B R Sharath,c Ayush Badoni b Krunal Pandya,2,5
+2,8,35,Sai Sudharsan,c Ravi Bishnoi b Krunal Pandya,31,20
+2,12,35,Darshan Nalkande,c Yash Thakur b Krunal Pandya,12,11
+2,14,35,Rashid Khan,c Deepak Hooda b Yash Thakur,0,3
+2,14,35,Vijay Shankar,c K L Rahul b Yash Thakur,17,17
+2,15,35,Umesh Yadav,c Quinton De Kock b Naveen-Ul-Haq,2,4
+2,18,35,Rahul Tewatia,c Nicholas Pooran b Yash Thakur,30,24
+2,18,35,Noor Ahmad,c Quinton De Kock b Yash Thakur,4,2
+1,0,16,Phil Salt,c Ravindra Jadeja b Tushar Deshpande,0,1
+1,6,16,Angkrish Raghuvanshi,lbw Ravindra Jadeja,24,18
+1,6,16,Sunil Narine,c Maheesh Theekshana b Ravindra Jadeja,27,20
+1,8,16,Venkatesh Iyer,c Daryl Mitchell b Ravindra Jadeja,3,8
+1,11,16,Ramandeep Singh,b Maheesh Theekshana,13,12
+1,16,16,Rinku Singh,b Tushar Deshpande,9,13
+1,18,16,Andre Russell,c Daryl Mitchell b Tushar Deshpande,10,9
+1,19,16,Shreyas Iyer,c Ravindra Jadeja b Mustafizur Rahman,34,32
+1,19,16,Mitchell Starc,c Rachin Ravindra b Mustafizur Rahman,0,3
+2,3,13,Rachin Ravindra,c Varun Chakaravarthy b Vaibhav Arora,15,8
+2,12,13,Daryl Mitchell,b Sunil Narine,25,19
+2,16,13,Shivam Dube,b Vaibhav Arora,28,18
+1,0,16,Phil Salt,c Ravindra Jadeja b Tushar Deshpande,0,1
+1,6,16,Angkrish Raghuvanshi,lbw Ravindra Jadeja,24,18
+1,6,16,Sunil Narine,c Maheesh Theekshana b Ravindra Jadeja,27,20
+1,8,16,Venkatesh Iyer,c Daryl Mitchell b Ravindra Jadeja,3,8
+1,11,16,Ramandeep Singh,b Maheesh Theekshana,13,12
+1,16,16,Rinku Singh,b Tushar Deshpande,9,13
+1,18,16,Andre Russell,c Daryl Mitchell b Tushar Deshpande,10,9
+1,19,16,Shreyas Iyer,c Ravindra Jadeja b Mustafizur Rahman,34,32
+1,19,16,Mitchell Starc,c Rachin Ravindra b Mustafizur Rahman,0,3
+2,3,13,Rachin Ravindra,c Varun Chakaravarthy b Vaibhav Arora,15,8
+2,12,13,Daryl Mitchell,b Sunil Narine,25,19
+2,16,13,Shivam Dube,b Vaibhav Arora,28,18
+1,3,20,Aiden Markram,c Jitesh Sharma b Arshdeep Singh,0,2
+1,3,20,Travis Head,c Shikhar Dhawan b Arshdeep Singh,21,15
+1,4,20,Abhishek Sharma,c Shashank Singh b Sam Curran,16,11
+1,9,20,Rahul Tripathi,c Jitesh Sharma b Harshal Patel,11,14
+1,13,20,Heinrich Klaasen,c Sam Curran b Harshal Patel,9,9
+1,16,20,Nitish Kumar Reddy,c Kagiso Rabada b Arshdeep Singh,64,37
+1,16,20,Abdul Samad,c Harshal Patel b Arshdeep Singh,25,12
+1,17,20,Pat Cummins,b Kagiso Rabada,3,4
+1,19,20,Bhuvneshwar Kumar,c Jonny Bairstow b Sam Curran,6,8
+2,1,15,Jonny Bairstow,b Pat Cummins,0,3
+2,2,15,Prabhsimran Singh,c Nitish Kumar Reddy b Bhuvneshwar Kumar,4,6
+2,4,15,Shikhar Dhawan,st Heinrich Klaasen b Bhuvneshwar Kumar,14,16
+2,9,15,Sam Curran,c Pat Cummins b T Natarajan,29,22
+2,13,15,Sikandar Raza,c Heinrich Klaasen b Jaydev Unadkat,28,22
+2,15,15,Jitesh Sharma,c Abhishek Sharma b Nitish Kumar Reddy,19,11
+1,3,20,Aiden Markram,c Jitesh Sharma b Arshdeep Singh,0,2
+1,3,20,Travis Head,c Shikhar Dhawan b Arshdeep Singh,21,15
+1,4,20,Abhishek Sharma,c Shashank Singh b Sam Curran,16,11
+1,9,20,Rahul Tripathi,c Jitesh Sharma b Harshal Patel,11,14
+1,13,20,Heinrich Klaasen,c Sam Curran b Harshal Patel,9,9
+1,16,20,Nitish Kumar Reddy,c Kagiso Rabada b Arshdeep Singh,64,37
+1,16,20,Abdul Samad,c Harshal Patel b Arshdeep Singh,25,12
+1,17,20,Pat Cummins,b Kagiso Rabada,3,4
+1,19,20,Bhuvneshwar Kumar,c Jonny Bairstow b Sam Curran,6,8
+2,1,15,Jonny Bairstow,b Pat Cummins,0,3
+2,2,15,Prabhsimran Singh,c Nitish Kumar Reddy b Bhuvneshwar Kumar,4,6
+2,4,15,Shikhar Dhawan,st Heinrich Klaasen b Bhuvneshwar Kumar,14,16
+2,9,15,Sam Curran,c Pat Cummins b T Natarajan,29,22
+2,13,15,Sikandar Raza,c Heinrich Klaasen b Jaydev Unadkat,28,22
+2,15,15,Jitesh Sharma,c Abhishek Sharma b Nitish Kumar Reddy,19,11
+1,4,18,Yashasvi Jaiswal,c Matthew Wade b Umesh Yadav,24,19
+1,5,18,Jos Buttler,c Rahul Tewatia b Rashid Khan,8,10
+1,18,18,Riyan Parag,c Vijay Shankar b Mohit Sharma,76,48
+2,8,35,Sai Sudharsan,lbw Kuldeep Sen,35,29
+2,10,35,Matthew Wade,b Kuldeep Sen,4,6
+2,10,35,Abhinav Manohar,b Kuldeep Sen,1,2
+2,13,35,Vijay Shankar,b Yuzvendra Chahal,16,10
+2,15,35,Shubman Gill,st Sanju Samson b Yuzvendra Chahal,72,44
+2,17,35,Shahrukh Khan,lbw Avesh Khan,14,8
+2,19,35,Rahul Tewatia,ro (Jos Buttler),22,11
+1,4,18,Yashasvi Jaiswal,c Matthew Wade b Umesh Yadav,24,19
+1,5,18,Jos Buttler,c Rahul Tewatia b Rashid Khan,8,10
+1,18,18,Riyan Parag,c Vijay Shankar b Mohit Sharma,76,48
+2,8,35,Sai Sudharsan,lbw Kuldeep Sen,35,29
+2,10,35,Matthew Wade,b Kuldeep Sen,4,6
+2,10,35,Abhinav Manohar,b Kuldeep Sen,1,2
+2,13,35,Vijay Shankar,b Yuzvendra Chahal,16,10
+2,15,35,Shubman Gill,st Sanju Samson b Yuzvendra Chahal,72,44
+2,17,35,Shahrukh Khan,lbw Avesh Khan,14,8
+2,19,35,Rahul Tewatia,ro (Jos Buttler),22,11
+1,2,19,Virat Kohli,c Ishan Kishan b Jasprit Bumrah,3,9
+1,3,19,Will Jacks,c Tim David b Akash Madhwal,8,6
+1,11,19,Rajat Patidar,c Ishan Kishan b Gerald Coetzee,50,26
+1,12,19,Glenn Maxwell,lbw Shreyas Gopal,0,4
+1,16,19,Faf Du Plessis,c Tim David b Jasprit Bumrah,61,40
+1,16,19,Mahipal Lomror,lbw Jasprit Bumrah,0,1
+1,18,19,Vyshak Vijaykumar,c Mohammad Nabi b Jasprit Bumrah,0,1
+1,18,19,Saurav Chauhan,c Akash Madhwal b Jasprit Bumrah,9,8
+2,8,17,Ishan Kishan,c Virat Kohli b Akash Deep,69,34
+2,11,17,Rohit Sharma,c Reece Topley b Will Jacks,38,24
+2,13,17,Suryakumar Yadav,c Mahipal Lomror b Vyshak Vijaykumar,52,19
+1,2,19,Virat Kohli,c Ishan Kishan b Jasprit Bumrah,3,9
+1,3,19,Will Jacks,c Tim David b Akash Madhwal,8,6
+1,11,19,Rajat Patidar,c Ishan Kishan b Gerald Coetzee,50,26
+1,12,19,Glenn Maxwell,lbw Shreyas Gopal,0,4
+1,16,19,Mahipal Lomror,lbw Jasprit Bumrah,0,1
+1,16,19,Faf Du Plessis,c Tim David b Jasprit Bumrah,61,40
+1,18,19,Vyshak Vijaykumar,c Mohammad Nabi b Jasprit Bumrah,0,1
+1,18,19,Saurav Chauhan,c Akash Madhwal b Jasprit Bumrah,9,8
+2,8,17,Ishan Kishan,c Virat Kohli b Akash Deep,69,34
+2,11,17,Rohit Sharma,c Reece Topley b Will Jacks,38,24
+2,13,17,Suryakumar Yadav,c Mahipal Lomror b Vyshak Vijaykumar,52,19
+1,2,77,Quinton De Kock,lbw Khaleel Ahmed,19,13
+1,4,77,Devdutt Padikkal,lbw Khaleel Ahmed,3,6
+1,7,77,Nicholas Pooran,b Kuldeep Yadav,0,1
+1,7,77,Marcus Stoinis,c Ishant Sharma b Kuldeep Yadav,8,10
+1,9,77,K L Rahul,c Rishabh Pant b Kuldeep Yadav,39,22
+1,11,77,Deepak Hooda,c David Warner b Ishant Sharma,10,13
+1,12,77,Krunal Pandya,c Rishabh Pant b Mukesh Kumar,3,4
+2,3,14,David Warner,b Yash Thakur,8,9
+2,6,14,Prithvi Shaw,c Nicholas Pooran b Ravi Bishnoi,32,22
+2,14,14,Jake Fraser-McGurk,c Arshad Khan b Naveen-Ul-Haq,55,35
+2,15,14,Rishabh Pant,st K L Rahul b Ravi Bishnoi,41,24
+1,2,77,Quinton De Kock,lbw Khaleel Ahmed,19,13
+1,4,77,Devdutt Padikkal,lbw Khaleel Ahmed,3,6
+1,7,77,Nicholas Pooran,b Kuldeep Yadav,0,1
+1,7,77,Marcus Stoinis,c Ishant Sharma b Kuldeep Yadav,8,10
+1,9,77,K L Rahul,c Rishabh Pant b Kuldeep Yadav,39,22
+1,11,77,Deepak Hooda,c David Warner b Ishant Sharma,10,13
+1,12,77,Krunal Pandya,c Rishabh Pant b Mukesh Kumar,3,4
+2,3,14,David Warner,b Yash Thakur,8,9
+2,6,14,Prithvi Shaw,c Nicholas Pooran b Ravi Bishnoi,32,22
+2,14,14,Jake Fraser-McGurk,c Arshad Khan b Naveen-Ul-Haq,55,35
+2,15,14,Rishabh Pant,st K L Rahul b Ravi Bishnoi,41,24
+1,3,15,Atharva Taide,c Kuldeep Sen b Avesh Khan,15,12
+1,6,15,Prabhsimran Singh,c Dhruv Jurel b Yuzvendra Chahal,10,14
+1,7,15,Jonny Bairstow,c Shimron Hetmyer b Keshav Maharaj,15,19
+1,9,15,Sam Curran,c Dhruv Jurel b Keshav Maharaj,6,10
+1,12,15,Shashank Singh,c Dhruv Jurel b Kuldeep Sen,9,9
+1,16,15,Jitesh Sharma,c Riyan Parag b Avesh Khan,29,24
+1,17,15,Liam Livingstone,ro (Tanush Kotian),21,14
+1,19,15,Ashutosh Sharma,c Keshav Maharaj b Trent Boult,31,15
+2,8,18,Tanush Kotian,b Liam Livingstone,24,31
+2,11,18,Yashasvi Jaiswal,c Harshal Patel b Kagiso Rabada,39,28
+2,13,18,Sanju Samson,lbw Kagiso Rabada,18,14
+2,16,18,Riyan Parag,c Kagiso Rabada b Arshdeep Singh,23,18
+2,17,18,Dhruv Jurel,c Shashank Singh b Harshal Patel,6,11
+2,18,18,Rovman Powell,c Jitesh Sharma b Sam Curran,11,5
+2,18,18,Keshav Maharaj,c Liam Livingstone b Sam Curran,1,2
+1,3,15,Atharva Taide,c Kuldeep Sen b Avesh Khan,15,12
+1,6,15,Prabhsimran Singh,c Dhruv Jurel b Yuzvendra Chahal,10,14
+1,7,15,Jonny Bairstow,c Shimron Hetmyer b Keshav Maharaj,15,19
+1,9,15,Sam Curran,c Dhruv Jurel b Keshav Maharaj,6,10
+1,12,15,Shashank Singh,c Dhruv Jurel b Kuldeep Sen,9,9
+1,16,15,Jitesh Sharma,c Riyan Parag b Avesh Khan,29,24
+1,17,15,Liam Livingstone,ro (Tanush Kotian),21,14
+1,19,15,Ashutosh Sharma,c Keshav Maharaj b Trent Boult,31,15
+2,8,18,Tanush Kotian,b Liam Livingstone,24,31
+2,11,18,Yashasvi Jaiswal,c Harshal Patel b Kagiso Rabada,39,28
+2,13,18,Sanju Samson,lbw Kagiso Rabada,18,14
+2,16,18,Riyan Parag,c Kagiso Rabada b Arshdeep Singh,23,18
+2,17,18,Dhruv Jurel,c Shashank Singh b Harshal Patel,6,11
+2,18,18,Rovman Powell,c Jitesh Sharma b Sam Curran,11,5
+2,18,18,Keshav Maharaj,c Liam Livingstone b Sam Curran,1,2
+1,1,77,Quinton De Kock,c Sunil Narine b Vaibhav Arora,10,8
+1,4,77,Deepak Hooda,c Ramandeep Singh b Mitchell Starc,8,10
+1,10,77,K L Rahul,c Ramandeep Singh b Andre Russell,39,26
+1,11,77,Marcus Stoinis,c Phil Salt b Varun Chakaravarthy,10,5
+1,14,77,Ayush Badoni,c Angkrish Raghuvanshi b Sunil Narine,29,27
+1,19,77,Nicholas Pooran,c Phil Salt b Mitchell Starc,45,32
+1,19,77,Arshad Khan,b Mitchell Starc,5,4
+2,1,16,Sunil Narine,c Marcus Stoinis b Mohsin Khan,6,6
+2,3,16,Angkrish Raghuvanshi,c K L Rahul b Mohsin Khan,7,6
+1,1,77,Quinton De Kock,c Sunil Narine b Vaibhav Arora,10,8
+1,4,77,Deepak Hooda,c Ramandeep Singh b Mitchell Starc,8,10
+1,10,77,K L Rahul,c Ramandeep Singh b Andre Russell,39,26
+1,11,77,Marcus Stoinis,c Phil Salt b Varun Chakaravarthy,10,5
+1,14,77,Ayush Badoni,c Angkrish Raghuvanshi b Sunil Narine,29,27
+1,19,77,Nicholas Pooran,c Phil Salt b Mitchell Starc,45,32
+1,19,77,Arshad Khan,b Mitchell Starc,5,4
+2,1,16,Sunil Narine,c Marcus Stoinis b Mohsin Khan,6,6
+2,3,16,Angkrish Raghuvanshi,c K L Rahul b Mohsin Khan,7,6
+1,1,13,Ajinkya Rahane,c Hardik Pandya b Gerald Coetzee,5,8
+1,7,13,Rachin Ravindra,c Ishan Kishan b Shreyas Gopal,21,16
+1,15,13,Ruturaj Gaikwad,c Mohammad Nabi b Hardik Pandya,69,40
+1,19,13,Daryl Mitchell,c Mohammad Nabi b Hardik Pandya,17,14
+2,7,17,Ishan Kishan,c Shardul Thakur b Matheesha Pathirana,23,15
+2,7,17,Suryakumar Yadav,c Mustafizur Rahman b Matheesha Pathirana,0,2
+2,13,17,Tilak Varma,c Shardul Thakur b Matheesha Pathirana,31,20
+2,15,17,Hardik Pandya,c Ravindra Jadeja b Tushar Deshpande,2,6
+2,16,17,Tim David,c Rachin Ravindra b Mustafizur Rahman,13,5
+2,17,17,Romario Shepherd,b Matheesha Pathirana,1,2
+1,1,13,Ajinkya Rahane,c Hardik Pandya b Gerald Coetzee,5,8
+1,7,13,Rachin Ravindra,c Ishan Kishan b Shreyas Gopal,21,16
+1,15,13,Ruturaj Gaikwad,c Mohammad Nabi b Hardik Pandya,69,40
+1,19,13,Daryl Mitchell,c Mohammad Nabi b Hardik Pandya,17,14
+2,7,17,Ishan Kishan,c Shardul Thakur b Matheesha Pathirana,23,15
+2,7,17,Suryakumar Yadav,c Mustafizur Rahman b Matheesha Pathirana,0,2
+2,13,17,Tilak Varma,c Shardul Thakur b Matheesha Pathirana,31,20
+2,15,17,Hardik Pandya,c Ravindra Jadeja b Tushar Deshpande,2,6
+2,16,17,Tim David,c Rachin Ravindra b Mustafizur Rahman,13,5
+2,17,17,Romario Shepherd,b Matheesha Pathirana,1,2
+1,8,20,Abhishek Sharma,c Lockie Ferguson b Reece Topley,34,22
+1,12,20,Travis Head,c Faf Du Plessis b Lockie Ferguson,102,41
+1,16,20,Heinrich Klaasen,c Vyshak Vijaykumar b Lockie Ferguson,67,31
+2,6,19,Virat Kohli,b Mayank Markande,42,20
+2,7,19,Will Jacks,ro (Jaydev Unadkat),7,4
+2,8,19,Rajat Patidar,c Nitish Kumar Reddy b Mayank Markande,9,5
+2,9,19,Saurav Chauhan,lbw Pat Cummins,0,1
+2,9,19,Faf Du Plessis,c Heinrich Klaasen b Pat Cummins,62,28
+2,14,19,Mahipal Lomror,b Pat Cummins,19,11
+2,18,19,Dinesh Karthik,c Heinrich Klaasen b T Natarajan,83,35
+1,8,20,Abhishek Sharma,c Lockie Ferguson b Reece Topley,34,22
+1,12,20,Travis Head,c Faf Du Plessis b Lockie Ferguson,102,41
+1,16,20,Heinrich Klaasen,c Vyshak Vijaykumar b Lockie Ferguson,67,31
+2,6,19,Virat Kohli,b Mayank Markande,42,20
+2,7,19,Will Jacks,ro (Jaydev Unadkat),7,4
+2,8,19,Rajat Patidar,c Nitish Kumar Reddy b Mayank Markande,9,5
+2,9,19,Saurav Chauhan,lbw Pat Cummins,0,1
+2,9,19,Faf Du Plessis,c Heinrich Klaasen b Pat Cummins,62,28
+2,14,19,Mahipal Lomror,b Pat Cummins,19,11
+2,18,19,Dinesh Karthik,c Heinrich Klaasen b T Natarajan,83,35
+1,1,35,Shubman Gill,c Prithvi Shaw b Ishant Sharma,8,6
+1,3,35,Wriddhiman Saha,b Mukesh Kumar,2,10
+1,4,35,David Miller,c Rishabh Pant b Ishant Sharma,2,6
+1,4,35,Sai Sudharsan,ro (Sumit Kumar),12,8
+1,8,35,Shahrukh Khan,st Rishabh Pant b Tristan Stubbs,0,1
+1,8,35,Abhinav Manohar,st Rishabh Pant b Tristan Stubbs,8,14
+1,11,35,Rahul Tewatia,lbw Axar Patel,10,14
+1,14,35,Mohit Sharma,c Sumit Kumar b Khaleel Ahmed,4,14
+1,17,35,Rashid Khan,c Rishabh Pant b Mukesh Kumar,31,24
+1,17,35,Noor Ahmad,b Mukesh Kumar,1,7
+2,1,14,Jake Fraser-McGurk,c Abhinav Manohar b Spencer Johnson,20,10
+2,2,14,Prithvi Shaw,c Sandeep Warrier b Sandeep Warrier,7,6
+2,4,14,Abishek Porel,b Sandeep Warrier,15,7
+2,5,14,Shai Hope,c Mohit Sharma b Rashid Khan,19,10
+1,1,35,Shubman Gill,c Prithvi Shaw b Ishant Sharma,8,6
+1,3,35,Wriddhiman Saha,b Mukesh Kumar,2,10
+1,4,35,David Miller,c Rishabh Pant b Ishant Sharma,2,6
+1,4,35,Sai Sudharsan,ro (Sumit Kumar),12,8
+1,8,35,Shahrukh Khan,st Rishabh Pant b Tristan Stubbs,0,1
+1,8,35,Abhinav Manohar,st Rishabh Pant b Tristan Stubbs,8,14
+1,11,35,Rahul Tewatia,lbw Axar Patel,10,14
+1,14,35,Mohit Sharma,c Sumit Kumar b Khaleel Ahmed,4,14
+1,17,35,Rashid Khan,c Rishabh Pant b Mukesh Kumar,31,24
+1,17,35,Noor Ahmad,b Mukesh Kumar,1,7
+2,1,14,Jake Fraser-McGurk,c Abhinav Manohar b Spencer Johnson,20,10
+2,2,14,Prithvi Shaw,c Sandeep Warrier b Sandeep Warrier,7,6
+2,4,14,Abishek Porel,b Sandeep Warrier,15,7
+2,5,14,Shai Hope,c Mohit Sharma b Rashid Khan,19,10
+1,3,16,Phil Salt,c & b Avesh Khan,10,13
+1,10,16,Angkrish Raghuvanshi,c Ravichandran Ashwin b Kuldeep Sen,30,18
+1,12,16,Shreyas Iyer,lbw Yuzvendra Chahal,11,7
+1,16,16,Andre Russell,c Dhruv Jurel b Avesh Khan,13,10
+1,17,16,Sunil Narine,b Trent Boult,109,56
+1,19,16,Venkatesh Iyer,c Dhruv Jurel b Kuldeep Sen,8,6
+2,1,18,Yashasvi Jaiswal,c Venkatesh Iyer b Vaibhav Arora,19,9
+2,4,18,Sanju Samson,c Sunil Narine b Harshit Rana,12,8
+2,7,18,Riyan Parag,c Andre Russell b Harshit Rana,34,14
+2,8,18,Dhruv Jurel,lbw Sunil Narine,2,4
+2,12,18,Shimron Hetmyer,c Shreyas Iyer b Varun Chakaravarthy,0,1
+2,12,18,Ravichandran Ashwin,c Angkrish Raghuvanshi b Varun Chakaravarthy,8,11
+2,16,18,Rovman Powell,lbw Sunil Narine,26,13
+2,17,18,Trent Boult,ro (Shreyas Iyer),0,1
+1,3,16,Phil Salt,c & b Avesh Khan,10,13
+1,10,16,Angkrish Raghuvanshi,c Ravichandran Ashwin b Kuldeep Sen,30,18
+1,12,16,Shreyas Iyer,lbw Yuzvendra Chahal,11,7
+1,16,16,Andre Russell,c Dhruv Jurel b Avesh Khan,13,10
+1,17,16,Sunil Narine,b Trent Boult,109,56
+1,19,16,Venkatesh Iyer,c Dhruv Jurel b Kuldeep Sen,8,6
+2,1,18,Yashasvi Jaiswal,c Venkatesh Iyer b Vaibhav Arora,19,9
+2,4,18,Sanju Samson,c Sunil Narine b Harshit Rana,12,8
+2,7,18,Riyan Parag,c Andre Russell b Harshit Rana,34,14
+2,8,18,Dhruv Jurel,lbw Sunil Narine,2,4
+2,12,18,Shimron Hetmyer,c Shreyas Iyer b Varun Chakaravarthy,0,1
+2,12,18,Ravichandran Ashwin,c Angkrish Raghuvanshi b Varun Chakaravarthy,8,11
+2,16,18,Rovman Powell,lbw Sunil Narine,26,13
+2,17,18,Trent Boult,ro (Shreyas Iyer),0,1
+1,2,17,Ishan Kishan,c Harpreet Brar b Kagiso Rabada,8,8
+1,11,17,Rohit Sharma,c Harpreet Brar b Sam Curran,36,25
+1,16,17,Suryakumar Yadav,c Prabhsimran Singh b Sam Curran,78,53
+1,17,17,Hardik Pandya,c Harpreet Brar b Harshal Patel,10,6
+1,19,17,Tim David,c Sam Curran b Harshal Patel,14,7
+1,19,17,Mohammad Nabi,ro (Harshal Patel),0,1
+1,19,17,Romario Shepherd,c Shashank Singh b Harshal Patel,1,2
+2,0,15,Prabhsimran Singh,c Ishan Kishan b Gerald Coetzee,0,1
+2,1,15,Sam Curran,c Ishan Kishan b Jasprit Bumrah,6,7
+2,1,15,Rilee Rossouw,b Jasprit Bumrah,1,3
+2,2,15,Liam Livingstone,c & b Gerald Coetzee,1,2
+2,6,15,Harpreet Bhatia,c & b Shreyas Gopal,13,15
+2,9,15,Jitesh Sharma,lbw Akash Madhwal,9,9
+2,12,15,Shashank Singh,c Tilak Varma b Jasprit Bumrah,41,25
+2,17,15,Ashutosh Sharma,c Mohammad Nabi b Gerald Coetzee,61,26
+2,18,15,Harpreet Brar,c Mohammad Nabi b Hardik Pandya,21,20
+2,19,15,Kagiso Rabada,ro (Mohammad Nabi),8,3
+1,2,17,Ishan Kishan,c Harpreet Brar b Kagiso Rabada,8,8
+1,11,17,Rohit Sharma,c Harpreet Brar b Sam Curran,36,25
+1,16,17,Suryakumar Yadav,c Prabhsimran Singh b Sam Curran,78,53
+1,17,17,Hardik Pandya,c Harpreet Brar b Harshal Patel,10,6
+1,19,17,Mohammad Nabi,ro (Harshal Patel),0,1
+1,19,17,Romario Shepherd,c Shashank Singh b Harshal Patel,1,2
+1,19,17,Tim David,c Sam Curran b Harshal Patel,14,7
+2,0,15,Prabhsimran Singh,c Ishan Kishan b Gerald Coetzee,0,1
+2,1,15,Sam Curran,c Ishan Kishan b Jasprit Bumrah,6,7
+2,1,15,Rilee Rossouw,b Jasprit Bumrah,1,3
+2,2,15,Liam Livingstone,c & b Gerald Coetzee,1,2
+2,6,15,Harpreet Bhatia,c & b Shreyas Gopal,13,15
+2,9,15,Jitesh Sharma,lbw Akash Madhwal,9,9
+2,12,15,Shashank Singh,c Tilak Varma b Jasprit Bumrah,41,25
+2,17,15,Ashutosh Sharma,c Mohammad Nabi b Gerald Coetzee,61,26
+2,18,15,Harpreet Brar,c Mohammad Nabi b Hardik Pandya,21,20
+2,19,15,Kagiso Rabada,ro (Mohammad Nabi),8,3
+1,1,13,Rachin Ravindra,b Mohsin Khan,0,1
+1,4,13,Ruturaj Gaikwad,c K L Rahul b Yash Thakur,17,13
+1,8,13,Ajinkya Rahane,b Krunal Pandya,36,24
+1,11,13,Shivam Dube,c K L Rahul b Marcus Stoinis,3,8
+1,12,13,Sameer Rizwi,st K L Rahul b Krunal Pandya,1,5
+1,17,13,Moeen Ali,c Ayush Badoni b Ravi Bishnoi,30,20
+2,14,77,Quinton De Kock,c MS Dhoni b Mustafizur Rahman,54,43
+2,17,77,K L Rahul,c Ravindra Jadeja b Matheesha Pathirana,82,53
+1,1,13,Rachin Ravindra,b Mohsin Khan,0,1
+1,4,13,Ruturaj Gaikwad,c K L Rahul b Yash Thakur,17,13
+1,8,13,Ajinkya Rahane,b Krunal Pandya,36,24
+1,11,13,Shivam Dube,c K L Rahul b Marcus Stoinis,3,8
+1,12,13,Sameer Rizwi,st K L Rahul b Krunal Pandya,1,5
+1,17,13,Moeen Ali,c Ayush Badoni b Ravi Bishnoi,30,20
+2,14,77,Quinton De Kock,c MS Dhoni b Mustafizur Rahman,54,43
+2,17,77,K L Rahul,c Ravindra Jadeja b Matheesha Pathirana,82,53
+1,6,20,Abhishek Sharma,c Axar Patel b Kuldeep Yadav,46,12
+1,6,20,Aiden Markram,c Axar Patel b Kuldeep Yadav,1,3
+1,8,20,Travis Head,c Tristan Stubbs b Kuldeep Yadav,89,32
+1,9,20,Heinrich Klaasen,b Axar Patel,15,8
+1,16,20,Nitish Kumar Reddy,c David Warner b Kuldeep Yadav,37,27
+1,19,20,Abdul Samad,c Anrich Nortje b Mukesh Kumar,13,8
+1,19,20,Pat Cummins,ro (Tristan Stubbs),1,1
+2,0,14,Prithvi Shaw,c Abdul Samad b Washington Sundar,16,5
+2,1,14,David Warner,c Pat Cummins b Bhuvneshwar Kumar,1,3
+2,6,14,Jake Fraser-McGurk,c Heinrich Klaasen b Mayank Markande,65,18
+2,8,14,Abishek Porel,st Heinrich Klaasen b Mayank Markande,42,22
+2,12,14,Tristan Stubbs,c Shahbaz Ahmed b Nitish Kumar Reddy,10,11
+2,14,14,Lalit Yadav,b T Natarajan,7,8
+2,18,14,Axar Patel,c Pat Cummins b T Natarajan,6,8
+2,18,14,Kuldeep Yadav,lbw T Natarajan,0,1
+2,18,14,Anrich Nortje,b T Natarajan,0,2
+2,19,14,Rishabh Pant,c T Natarajan b Nitish Kumar Reddy,44,35
+1,6,20,Abhishek Sharma,c Axar Patel b Kuldeep Yadav,46,12
+1,6,20,Aiden Markram,c Axar Patel b Kuldeep Yadav,1,3
+1,8,20,Travis Head,c Tristan Stubbs b Kuldeep Yadav,89,32
+1,9,20,Heinrich Klaasen,b Axar Patel,15,8
+1,16,20,Nitish Kumar Reddy,c David Warner b Kuldeep Yadav,37,27
+1,19,20,Abdul Samad,c Anrich Nortje b Mukesh Kumar,13,8
+1,19,20,Pat Cummins,ro (Tristan Stubbs),1,1
+2,0,14,Prithvi Shaw,c Abdul Samad b Washington Sundar,16,5
+2,1,14,David Warner,c Pat Cummins b Bhuvneshwar Kumar,1,3
+2,6,14,Jake Fraser-McGurk,c Heinrich Klaasen b Mayank Markande,65,18
+2,8,14,Abishek Porel,st Heinrich Klaasen b Mayank Markande,42,22
+2,12,14,Tristan Stubbs,c Shahbaz Ahmed b Nitish Kumar Reddy,10,11
+2,14,14,Lalit Yadav,b T Natarajan,7,8
+2,18,14,Axar Patel,c Pat Cummins b T Natarajan,6,8
+2,18,14,Kuldeep Yadav,lbw T Natarajan,0,1
+2,18,14,Anrich Nortje,b T Natarajan,0,2
+2,19,14,Rishabh Pant,c T Natarajan b Nitish Kumar Reddy,44,35
+1,5,15,Prabhsimran Singh,c Wriddhiman Saha b Mohit Sharma,35,20
+1,6,15,Rilee Rossouw,lbw Noor Ahmad,9,7
+1,7,15,Sam Curran,lbw Rashid Khan,20,19
+1,10,15,Liam Livingstone,c Rahul Tewatia b Noor Ahmad,6,9
+1,11,15,Jitesh Sharma,b Sai Kishore,13,12
+1,13,15,Ashutosh Sharma,c Mohit Sharma b Sai Kishore,3,8
+1,15,15,Shashank Singh,c & b Sai Kishore,8,12
+1,18,15,Harpreet Brar,c Shahrukh Khan b Sai Kishore,29,12
+1,19,15,Harpreet Bhatia,ro (Sai Sudharsan),14,19
+1,19,15,Harshal Patel,c Shahrukh Khan b Mohit Sharma,0,1
+2,3,35,Wriddhiman Saha,c Ashutosh Sharma b Arshdeep Singh,13,11
+2,9,35,Shubman Gill,c Kagiso Rabada b Liam Livingstone,35,29
+2,11,35,David Miller,b Liam Livingstone,4,6
+2,14,35,Sai Sudharsan,b Sam Curran,31,34
+2,15,35,Azmatullah Omarzai,c Jitesh Sharma b Harshal Patel,13,10
+2,18,35,Rashid Khan,c Rilee Rossouw b Harshal Patel,3,3
+2,18,35,Shahrukh Khan,b Harshal Patel,8,4
+1,5,15,Prabhsimran Singh,c Wriddhiman Saha b Mohit Sharma,35,20
+1,6,15,Rilee Rossouw,lbw Noor Ahmad,9,7
+1,7,15,Sam Curran,lbw Rashid Khan,20,19
+1,10,15,Liam Livingstone,c Rahul Tewatia b Noor Ahmad,6,9
+1,11,15,Jitesh Sharma,b Sai Kishore,13,12
+1,13,15,Ashutosh Sharma,c Mohit Sharma b Sai Kishore,3,8
+1,15,15,Shashank Singh,c & b Sai Kishore,8,12
+1,18,15,Harpreet Brar,c Shahrukh Khan b Sai Kishore,29,12
+1,19,15,Harpreet Bhatia,ro (Sai Sudharsan),14,19
+1,19,15,Harshal Patel,c Shahrukh Khan b Mohit Sharma,0,1
+2,3,35,Wriddhiman Saha,c Ashutosh Sharma b Arshdeep Singh,13,11
+2,9,35,Shubman Gill,c Kagiso Rabada b Liam Livingstone,35,29
+2,11,35,David Miller,b Liam Livingstone,4,6
+2,14,35,Sai Sudharsan,b Sam Curran,31,34
+2,15,35,Azmatullah Omarzai,c Jitesh Sharma b Harshal Patel,13,10
+2,18,35,Rashid Khan,c Rilee Rossouw b Harshal Patel,3,3
+2,18,35,Shahrukh Khan,b Harshal Patel,8,4
+1,4,16,Phil Salt,c Rajat Patidar b Mohammed Siraj,48,14
+1,5,16,Sunil Narine,c Virat Kohli b Yash Dayal,10,15
+1,5,16,Angkrish Raghuvanshi,c Cameron Green b Yash Dayal,3,4
+1,8,16,Venkatesh Iyer,c Mahipal Lomror b Cameron Green,16,8
+1,13,16,Rinku Singh,c Yash Dayal b Lockie Ferguson,24,16
+1,17,16,Shreyas Iyer,c Faf Du Plessis b Cameron Green,50,36
+2,2,19,Virat Kohli,c & b Harshit Rana,18,7
+2,3,19,Faf Du Plessis,c Venkatesh Iyer b Varun Chakaravarthy,7,7
+2,11,19,Will Jacks,c Angkrish Raghuvanshi b Andre Russell,55,32
+2,11,19,Rajat Patidar,c Harshit Rana b Andre Russell,52,23
+2,12,19,Mahipal Lomror,c & b Sunil Narine,4,3
+2,12,19,Cameron Green,c Ramandeep Singh b Sunil Narine,6,4
+2,17,19,Suyash S Prabhudessai,c Angkrish Raghuvanshi b Harshit Rana,24,18
+2,18,19,Dinesh Karthik,c Phil Salt b Andre Russell,25,18
+2,19,19,Karn Sharma,c & b Mitchell Starc,20,7
+2,19,19,Lockie Ferguson,ro (Ramandeep Singh),1,1
+1,4,16,Phil Salt,c Rajat Patidar b Mohammed Siraj,48,14
+1,5,16,Sunil Narine,c Virat Kohli b Yash Dayal,10,15
+1,5,16,Angkrish Raghuvanshi,c Cameron Green b Yash Dayal,3,4
+1,8,16,Venkatesh Iyer,c Mahipal Lomror b Cameron Green,16,8
+1,13,16,Rinku Singh,c Yash Dayal b Lockie Ferguson,24,16
+1,17,16,Shreyas Iyer,c Faf Du Plessis b Cameron Green,50,36
+2,2,19,Virat Kohli,c & b Harshit Rana,18,7
+2,3,19,Faf Du Plessis,c Venkatesh Iyer b Varun Chakaravarthy,7,7
+2,11,19,Will Jacks,c Angkrish Raghuvanshi b Andre Russell,55,32
+2,11,19,Rajat Patidar,c Harshit Rana b Andre Russell,52,23
+2,12,19,Mahipal Lomror,c & b Sunil Narine,4,3
+2,12,19,Cameron Green,c Ramandeep Singh b Sunil Narine,6,4
+2,17,19,Suyash S Prabhudessai,c Angkrish Raghuvanshi b Harshit Rana,24,18
+2,18,19,Dinesh Karthik,c Phil Salt b Andre Russell,25,18
+2,19,19,Lockie Ferguson,ro (Ramandeep Singh),1,1
+2,19,19,Karn Sharma,c & b Mitchell Starc,20,7
+1,0,17,Rohit Sharma,c Sanju Samson b Trent Boult,6,5
+1,1,17,Ishan Kishan,c Sanju Samson b Sandeep Sharma,0,3
+1,3,17,Suryakumar Yadav,c Rovman Powell b Sandeep Sharma,10,8
+1,7,17,Mohammad Nabi,c & b Yuzvendra Chahal,23,17
+1,16,17,Nehal Wadera,c Sandeep Sharma b Trent Boult,49,24
+1,18,17,Hardik Pandya,lbw Avesh Khan,10,10
+1,19,17,Gerald Coetzee,c Shimron Hetmyer b Sandeep Sharma,0,1
+1,19,17,Tim David,c Riyan Parag b Sandeep Sharma,3,5
+1,19,17,Tilak Varma,c Rovman Powell b Sandeep Sharma,65,45
+2,7,18,Jos Buttler,b Piyush Chawla,35,25
+1,0,17,Rohit Sharma,c Sanju Samson b Trent Boult,6,5
+1,1,17,Ishan Kishan,c Sanju Samson b Sandeep Sharma,0,3
+1,3,17,Suryakumar Yadav,c Rovman Powell b Sandeep Sharma,10,8
+1,7,17,Mohammad Nabi,c & b Yuzvendra Chahal,23,17
+1,16,17,Nehal Wadera,c Sandeep Sharma b Trent Boult,49,24
+1,18,17,Hardik Pandya,lbw Avesh Khan,10,10
+1,19,17,Gerald Coetzee,c Shimron Hetmyer b Sandeep Sharma,0,1
+1,19,17,Tim David,c Riyan Parag b Sandeep Sharma,3,5
+1,19,17,Tilak Varma,c Rovman Powell b Sandeep Sharma,65,45
+2,7,18,Jos Buttler,b Piyush Chawla,35,25
+1,3,14,Jake Fraser-Mcgurk,c Noor Ahmad b Sandeep Warrier,23,14
+1,3,14,Prithvi Shaw,c Noor Ahmad b Sandeep Warrier,11,7
+1,5,14,Shai Hope,c Sandeep Warrier b Sandeep Warrier,5,6
+1,16,14,Axar Patel,c Sai Kishore b Noor Ahmad,66,43
+2,1,35,Shubman Gill,c Axar Patel b Anrich Nortje,6,5
+2,9,35,Wriddhiman Saha,c Axar Patel b Kuldeep Yadav,39,25
+2,10,35,Azmatullah Omarzai,c Jake Fraser-Mcgurk b Axar Patel,1,2
+2,12,35,Sai Sudharsan,c Axar Patel b Rasikh Salam,65,39
+2,14,35,Shahrukh Khan,c Rishabh Pant b Rasikh Salam,8,5
+2,15,35,Rahul Tewatia,c Rishabh Pant b Kuldeep Yadav,4,5
+2,17,35,David Miller,c Rasikh Salam b Mukesh Kumar,55,23
+2,18,35,Sai Kishore,b Rasikh Salam,13,6
+1,3,14,Jake Fraser-Mcgurk,c Noor Ahmad b Sandeep Warrier,23,14
+1,3,14,Prithvi Shaw,c Noor Ahmad b Sandeep Warrier,11,7
+1,5,14,Shai Hope,c Sandeep Warrier b Sandeep Warrier,5,6
+1,16,14,Axar Patel,c Sai Kishore b Noor Ahmad,66,43
+2,1,35,Shubman Gill,c Axar Patel b Anrich Nortje,6,5
+2,9,35,Wriddhiman Saha,c Axar Patel b Kuldeep Yadav,39,25
+2,10,35,Azmatullah Omarzai,c Jake Fraser-Mcgurk b Axar Patel,1,2
+2,12,35,Sai Sudharsan,c Axar Patel b Rasikh Salam,65,39
+2,14,35,Shahrukh Khan,c Rishabh Pant b Rasikh Salam,8,5
+2,15,35,Rahul Tewatia,c Rishabh Pant b Kuldeep Yadav,4,5
+2,17,35,David Miller,c Rasikh Salam b Mukesh Kumar,55,23
+2,18,35,Sai Kishore,b Rasikh Salam,13,6
+1,3,19,Faf Du Plessis,c Aiden Markram b T Natarajan,25,12
+1,6,19,Will Jacks,b Mayank Markande,6,9
+1,12,19,Rajat Patidar,c Abdul Samad b Jaydev Unadkat,50,20
+1,14,19,Virat Kohli,c Abdul Samad b Jaydev Unadkat,51,43
+1,16,19,Mahipal Lomror,c Pat Cummins b Jaydev Unadkat,7,4
+1,18,19,Dinesh Karthik,c Abdul Samad b Pat Cummins,11,6
+1,19,19,Swapnil Singh,c Abhishek Sharma b T Natarajan,12,6
+2,0,20,Travis Head,c Karn Sharma b Will Jacks,1,3
+2,3,20,Abhishek Sharma,c Dinesh Karthik b Yash Dayal,31,13
+2,4,20,Heinrich Klaasen,c Cameron Green b Swapnil Singh,7,2
+2,4,20,Aiden Markram,lbw Swapnil Singh,7,8
+2,7,20,Nitish Kumar Reddy,b Karn Sharma,13,13
+2,9,20,Abdul Samad,c & b Karn Sharma,10,6
+2,13,20,Pat Cummins,c Mohammed Siraj b Cameron Green,31,15
+2,15,20,Bhuvneshwar Kumar,c Mohammed Siraj b Cameron Green,13,13
+1,3,19,Faf Du Plessis,c Aiden Markram b T Natarajan,25,12
+1,6,19,Will Jacks,b Mayank Markande,6,9
+1,12,19,Rajat Patidar,c Abdul Samad b Jaydev Unadkat,50,20
+1,14,19,Virat Kohli,c Abdul Samad b Jaydev Unadkat,51,43
+1,16,19,Mahipal Lomror,c Pat Cummins b Jaydev Unadkat,7,4
+1,18,19,Dinesh Karthik,c Abdul Samad b Pat Cummins,11,6
+1,19,19,Swapnil Singh,c Abhishek Sharma b T Natarajan,12,6
+2,0,20,Travis Head,c Karn Sharma b Will Jacks,1,3
+2,3,20,Abhishek Sharma,c Dinesh Karthik b Yash Dayal,31,13
+2,4,20,Heinrich Klaasen,c Cameron Green b Swapnil Singh,7,2
+2,4,20,Aiden Markram,lbw Swapnil Singh,7,8
+2,7,20,Nitish Kumar Reddy,b Karn Sharma,13,13
+2,9,20,Abdul Samad,c & b Karn Sharma,10,6
+2,13,20,Pat Cummins,c Mohammed Siraj b Cameron Green,31,15
+2,15,20,Bhuvneshwar Kumar,c Mohammed Siraj b Cameron Green,13,13
+1,10,16,Sunil Narine,c Jonny Bairstow b Rahul Chahar,71,32
+1,12,16,Phil Salt,b Sam Curran,75,36
+1,15,16,Andre Russell,c Harshal Patel b Arshdeep Singh,24,12
+1,18,16,Shreyas Iyer,c Kagiso Rabada b Arshdeep Singh,28,10
+1,19,16,Rinku Singh,c Ashutosh Sharma b Harshal Patel,5,4
+1,19,16,Venkatesh Iyer,ro (Jitesh Sharma),39,23
+2,5,15,Prabhsimran Singh,ro (Sunil Narine),54,20
+2,12,15,Rilee Rossouw,c Shreyas Iyer b Sunil Narine,26,16
+1,10,16,Sunil Narine,c Jonny Bairstow b Rahul Chahar,71,32
+1,12,16,Phil Salt,b Sam Curran,75,36
+1,15,16,Andre Russell,c Harshal Patel b Arshdeep Singh,24,12
+1,18,16,Shreyas Iyer,c Kagiso Rabada b Arshdeep Singh,28,10
+1,19,16,Rinku Singh,c Ashutosh Sharma b Harshal Patel,5,4
+1,19,16,Venkatesh Iyer,ro (Jitesh Sharma),39,23
+2,5,15,Prabhsimran Singh,ro (Sunil Narine),54,20
+2,12,15,Rilee Rossouw,c Shreyas Iyer b Sunil Narine,26,16
+1,0,13,Ajinkya Rahane,c K L Rahul b Matt Henry,1,3
+1,5,13,Daryl Mitchell,c Deepak Hooda b Yash Thakur,11,10
+1,11,13,Ravindra Jadeja,c K L Rahul b Mohsin Khan,16,19
+1,19,13,Shivam Dube,ro (Quinton De Kock),66,27
+2,0,77,Quinton De Kock,b Deepak Chahar,0,3
+2,4,77,K L Rahul,c Ruturaj Gaikwad b Mustafizur Rahman,16,14
+2,10,77,Devdutt Padikkal,b Matheesha Pathirana,13,18
+2,16,77,Nicholas Pooran,c Shardul Thakur b Matheesha Pathirana,34,15
+1,0,13,Ajinkya Rahane,c K L Rahul b Matt Henry,1,3
+1,5,13,Daryl Mitchell,c Deepak Hooda b Yash Thakur,11,10
+1,11,13,Ravindra Jadeja,c K L Rahul b Mohsin Khan,16,19
+1,19,13,Shivam Dube,ro (Quinton De Kock),66,27
+2,0,77,Quinton De Kock,b Deepak Chahar,0,3
+2,4,77,K L Rahul,c Ruturaj Gaikwad b Mustafizur Rahman,16,14
+2,10,77,Devdutt Padikkal,b Matheesha Pathirana,13,18
+2,16,77,Nicholas Pooran,c Shardul Thakur b Matheesha Pathirana,34,15
+1,0,77,Quinton De Kock,b Trent Boult,8,3
+1,1,77,Marcus Stoinis,b Sandeep Sharma,0,4
+1,12,77,Deepak Hooda,c Rovman Powell b Ravichandran Ashwin,50,31
+1,15,77,Nicholas Pooran,c Trent Boult b Sandeep Sharma,11,11
+1,17,77,K L Rahul,c Trent Boult b Avesh Khan,76,47
+2,5,18,Jos Buttler,b Yash Thakur,34,18
+2,6,18,Yashasvi Jaiswal,c Ravi Bishnoi b Marcus Stoinis,24,18
+2,8,18,Riyan Parag,c Ayush Badoni b Amit Mishra,14,11
+1,0,77,Quinton De Kock,b Trent Boult,8,3
+1,1,77,Marcus Stoinis,b Sandeep Sharma,0,4
+1,12,77,Deepak Hooda,c Rovman Powell b Ravichandran Ashwin,50,31
+1,15,77,Nicholas Pooran,c Trent Boult b Sandeep Sharma,11,11
+1,17,77,K L Rahul,c Trent Boult b Avesh Khan,76,47
+2,5,18,Jos Buttler,b Yash Thakur,34,18
+2,6,18,Yashasvi Jaiswal,c Ravi Bishnoi b Marcus Stoinis,24,18
+2,8,18,Riyan Parag,c Ayush Badoni b Amit Mishra,14,11
+1,7,14,Jake Fraser - McGurk,c Mohammad Nabi b Piyush Chawla,84,26
+1,9,14,Abishek Porel,c Ishan Kishan b Mohammad Nabi,36,27
+1,13,14,Shai Hope,c Tilak Varma b Luke Wood,41,17
+1,18,14,Rishabh Pant,c Rohit Sharma b Jasprit Bumrah,29,19
+2,3,17,Rohit Sharma,c Shai Hope b Khaleel Ahmed,8,7
+2,4,17,Ishan Kishan,c Axar Patel b Mukesh Kumar,20,14
+2,5,17,Suryakumar Yadav,c Lizaad Williams b Khaleel Ahmed,26,13
+2,12,17,Nehal Wadera,c Rishabh Pant b Rasikh Salam,4,2
+2,12,17,Hardik Pandya,c Mukesh Kumar b Rasikh Salam,46,24
+2,17,17,Tim David,lbw Mukesh Kumar,37,17
+2,18,17,Mohammad Nabi,c Shai Hope b Rasikh Salam,7,4
+2,19,17,Tilak Varma,ro (Sumit Kumar),63,32
+2,19,17,Piyush Chawla,c Shai Hope b Mukesh Kumar,10,4
+1,7,14,Jake Fraser - McGurk,c Mohammad Nabi b Piyush Chawla,84,26
+1,9,14,Abishek Porel,c Ishan Kishan b Mohammad Nabi,36,27
+1,13,14,Shai Hope,c Tilak Varma b Luke Wood,41,17
+1,18,14,Rishabh Pant,c Rohit Sharma b Jasprit Bumrah,29,19
+2,3,17,Rohit Sharma,c Shai Hope b Khaleel Ahmed,8,7
+2,4,17,Ishan Kishan,c Axar Patel b Mukesh Kumar,20,14
+2,5,17,Suryakumar Yadav,c Lizaad Williams b Khaleel Ahmed,26,13
+2,12,17,Nehal Wadera,c Rishabh Pant b Rasikh Salam,4,2
+2,12,17,Hardik Pandya,c Mukesh Kumar b Rasikh Salam,46,24
+2,17,17,Tim David,lbw Mukesh Kumar,37,17
+2,18,17,Mohammad Nabi,c Shai Hope b Rasikh Salam,7,4
+2,19,17,Piyush Chawla,c Shai Hope b Mukesh Kumar,10,4
+2,19,17,Tilak Varma,ro (Sumit Kumar),63,32
+1,0,35,Wriddhiman Saha,c Karn Sharma b Swapnil Singh,5,4
+1,6,35,Shubman Gill,c Cameron Green b Glenn Maxwell,16,19
+1,14,35,Shahrukh Khan,b Mohammed Siraj,58,30
+2,3,19,Faf Du Plessis,c Vijay Shankar b Sai Kishore,24,12
+1,0,35,Wriddhiman Saha,c Karn Sharma b Swapnil Singh,5,4
+1,6,35,Shubman Gill,c Cameron Green b Glenn Maxwell,16,19
+1,14,35,Shahrukh Khan,b Mohammed Siraj,58,30
+2,3,19,Faf Du Plessis,c Vijay Shankar b Sai Kishore,24,12
+1,2,13,Ajinkya Rahane,c Shahbaz Ahmed b Bhuvneshwar Kumar,9,12
+1,13,13,Daryl Mitchell,c Nitish Kumar Reddy b Jaydev Unadkat,52,32
+1,19,13,Ruturaj Gaikwad,c Nitish Kumar Reddy b T Natarajan,98,54
+2,1,20,Anmolpreet Singh,c Moeen Ali b Tushar Deshpande,0,1
+2,1,20,Travis Head,c Daryl Mitchell b Tushar Deshpande,13,7
+2,3,20,Abhishek Sharma,c Daryl Mitchell b Tushar Deshpande,15,9
+2,8,20,Nitish Kumar Reddy,c MS Dhoni b Ravindra Jadeja,15,15
+2,10,20,Aiden Markram,b Matheesha Pathirana,32,25
+2,15,20,Heinrich Klaasen,c Daryl Mitchell b Matheesha Pathirana,20,21
+2,16,20,Abdul Samad,c Sameer Rizwi b Shardul Thakur,19,18
+2,17,20,Pat Cummins,c Daryl Mitchell b Tushar Deshpande,5,7
+2,18,20,Jaydev Unadkat,c Moeen Ali b Mustafizur Rahman,1,2
+2,18,20,Shahbaz Ahmed,c Daryl Mitchell b Mustafizur Rahman,7,5
+1,2,13,Ajinkya Rahane,c Shahbaz Ahmed b Bhuvneshwar Kumar,9,12
+1,13,13,Daryl Mitchell,c Nitish Kumar Reddy b Jaydev Unadkat,52,32
+1,19,13,Ruturaj Gaikwad,c Nitish Kumar Reddy b T Natarajan,98,54
+2,1,20,Anmolpreet Singh,c Moeen Ali b Tushar Deshpande,0,1
+2,1,20,Travis Head,c Daryl Mitchell b Tushar Deshpande,13,7
+2,3,20,Abhishek Sharma,c Daryl Mitchell b Tushar Deshpande,15,9
+2,8,20,Nitish Kumar Reddy,c MS Dhoni b Ravindra Jadeja,15,15
+2,10,20,Aiden Markram,b Matheesha Pathirana,32,25
+2,15,20,Heinrich Klaasen,c Daryl Mitchell b Matheesha Pathirana,20,21
+2,16,20,Abdul Samad,c Sameer Rizwi b Shardul Thakur,19,18
+2,17,20,Pat Cummins,c Daryl Mitchell b Tushar Deshpande,5,7
+2,18,20,Jaydev Unadkat,c Moeen Ali b Mustafizur Rahman,1,2
+2,18,20,Shahbaz Ahmed,c Daryl Mitchell b Mustafizur Rahman,7,5
+1,1,14,Prithvi Shaw,c Phil Salt b Vaibhav Arora,13,7
+1,2,14,Jake Fraser - McGurk,c Venkatesh Iyer b Mitchell Starc,12,6
+1,3,14,Shai Hope,b Vaibhav Arora,6,3
+1,6,14,Abishek Porel,b Harshit Rana,18,15
+1,10,14,Rishabh Pant,c Shreyas Iyer b Varun Chakaravarthy,27,20
+1,12,14,Tristan Stubbs,c Phil Salt b Varun Chakaravarthy,4,7
+1,13,14,Axar Patel,b Sunil Narine,15,21
+1,14,14,Kumar Kushagra,c Phil Salt b Varun Chakaravarthy,1,3
+1,18,14,Rasikh Salam,c Shreyas Iyer b Harshit Rana,8,10
+2,6,16,Sunil Narine,c Jake Fraser - McGurk b Axar Patel,15,9
+2,8,16,Phil Salt,b Axar Patel,68,33
+2,9,16,Rinku Singh,c Kuldeep Yadav b Lizaad Williams,11,11
+1,1,14,Prithvi Shaw,c Phil Salt b Vaibhav Arora,13,7
+1,2,14,Jake Fraser - McGurk,c Venkatesh Iyer b Mitchell Starc,12,6
+1,3,14,Shai Hope,b Vaibhav Arora,6,3
+1,6,14,Abishek Porel,b Harshit Rana,18,15
+1,10,14,Rishabh Pant,c Shreyas Iyer b Varun Chakaravarthy,27,20
+1,12,14,Tristan Stubbs,c Phil Salt b Varun Chakaravarthy,4,7
+1,13,14,Axar Patel,b Sunil Narine,15,21
+1,14,14,Kumar Kushagra,c Phil Salt b Varun Chakaravarthy,1,3
+1,18,14,Rasikh Salam,c Shreyas Iyer b Harshit Rana,8,10
+2,6,16,Sunil Narine,c Jake Fraser - McGurk b Axar Patel,15,9
+2,8,16,Phil Salt,b Axar Patel,68,33
+2,9,16,Rinku Singh,c Kuldeep Yadav b Lizaad Williams,11,11
