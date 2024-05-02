@@ -1021,22 +1021,6 @@ InningsNo,OverNo,BattingTeamID,OutBatsman,OutDesc,BatsmanRuns,BatsmanBalls
 2,4,77,K L Rahul,c Ruturaj Gaikwad b Mustafizur Rahman,16,14
 2,10,77,Devdutt Padikkal,b Matheesha Pathirana,13,18
 2,16,77,Nicholas Pooran,c Shardul Thakur b Matheesha Pathirana,34,15
-1,0,77,Quinton De Kock,b Trent Boult,8,3
-1,1,77,Marcus Stoinis,b Sandeep Sharma,0,4
-1,12,77,Deepak Hooda,c Rovman Powell b Ravichandran Ashwin,50,31
-1,15,77,Nicholas Pooran,c Trent Boult b Sandeep Sharma,11,11
-1,17,77,K L Rahul,c Trent Boult b Avesh Khan,76,47
-2,5,18,Jos Buttler,b Yash Thakur,34,18
-2,6,18,Yashasvi Jaiswal,c Ravi Bishnoi b Marcus Stoinis,24,18
-2,8,18,Riyan Parag,c Ayush Badoni b Amit Mishra,14,11
-1,0,77,Quinton De Kock,b Trent Boult,8,3
-1,1,77,Marcus Stoinis,b Sandeep Sharma,0,4
-1,12,77,Deepak Hooda,c Rovman Powell b Ravichandran Ashwin,50,31
-1,15,77,Nicholas Pooran,c Trent Boult b Sandeep Sharma,11,11
-1,17,77,K L Rahul,c Trent Boult b Avesh Khan,76,47
-2,5,18,Jos Buttler,b Yash Thakur,34,18
-2,6,18,Yashasvi Jaiswal,c Ravi Bishnoi b Marcus Stoinis,24,18
-2,8,18,Riyan Parag,c Ayush Badoni b Amit Mishra,14,11
 1,7,14,Jake Fraser - McGurk,c Mohammad Nabi b Piyush Chawla,84,26
 1,9,14,Abishek Porel,c Ishan Kishan b Mohammad Nabi,36,27
 1,13,14,Shai Hope,c Tilak Varma b Luke Wood,41,17
@@ -1063,6 +1047,22 @@ InningsNo,OverNo,BattingTeamID,OutBatsman,OutDesc,BatsmanRuns,BatsmanBalls
 2,18,17,Mohammad Nabi,c Shai Hope b Rasikh Salam,7,4
 2,19,17,Piyush Chawla,c Shai Hope b Mukesh Kumar,10,4
 2,19,17,Tilak Varma,ro (Sumit Kumar),63,32
+1,0,77,Quinton De Kock,b Trent Boult,8,3
+1,1,77,Marcus Stoinis,b Sandeep Sharma,0,4
+1,12,77,Deepak Hooda,c Rovman Powell b Ravichandran Ashwin,50,31
+1,15,77,Nicholas Pooran,c Trent Boult b Sandeep Sharma,11,11
+1,17,77,K L Rahul,c Trent Boult b Avesh Khan,76,47
+2,5,18,Jos Buttler,b Yash Thakur,34,18
+2,6,18,Yashasvi Jaiswal,c Ravi Bishnoi b Marcus Stoinis,24,18
+2,8,18,Riyan Parag,c Ayush Badoni b Amit Mishra,14,11
+1,0,77,Quinton De Kock,b Trent Boult,8,3
+1,1,77,Marcus Stoinis,b Sandeep Sharma,0,4
+1,12,77,Deepak Hooda,c Rovman Powell b Ravichandran Ashwin,50,31
+1,15,77,Nicholas Pooran,c Trent Boult b Sandeep Sharma,11,11
+1,17,77,K L Rahul,c Trent Boult b Avesh Khan,76,47
+2,5,18,Jos Buttler,b Yash Thakur,34,18
+2,6,18,Yashasvi Jaiswal,c Ravi Bishnoi b Marcus Stoinis,24,18
+2,8,18,Riyan Parag,c Ayush Badoni b Amit Mishra,14,11
 1,0,35,Wriddhiman Saha,c Karn Sharma b Swapnil Singh,5,4
 1,6,35,Shubman Gill,c Cameron Green b Glenn Maxwell,16,19
 1,14,35,Shahrukh Khan,b Mohammed Siraj,58,30
@@ -1121,3 +1121,69 @@ InningsNo,OverNo,BattingTeamID,OutBatsman,OutDesc,BatsmanRuns,BatsmanBalls
 2,6,16,Sunil Narine,c Jake Fraser - McGurk b Axar Patel,15,9
 2,8,16,Phil Salt,b Axar Patel,68,33
 2,9,16,Rinku Singh,c Kuldeep Yadav b Lizaad Williams,11,11
+1,1,17,Rohit Sharma,c Marcus Stoinis b Mohsin Khan,4,5
+1,2,17,Suryakumar Yadav,c K L Rahul b Marcus Stoinis,10,6
+1,5,17,Hardik Pandya,c K L Rahul b Naveen-Ul-Haq,0,1
+1,5,17,Tilak Varma,ro (Ravi Bishnoi),7,11
+1,13,17,Ishan Kishan,c Mayank Yadav b Ravi Bishnoi,32,35
+1,17,17,Nehal Wadera,b Mohsin Khan,46,41
+1,18,17,Mohammad Nabi,b Mayank Yadav,1,2
+2,0,77,Arshin Atul Kulkarni,lbw Nuwan Thushara,0,1
+2,7,77,K L Rahul,c Mohammad Nabi b Hardik Pandya,28,22
+2,13,77,Deepak Hooda,c Jasprit Bumrah b Hardik Pandya,18,18
+2,14,77,Marcus Stoinis,c Tilak Varma b Mohammad Nabi,62,45
+2,17,77,Ashton Turner,b Gerald Coetzee,5,9
+2,18,77,Ayush Badoni,ro (Naman Dhir),6,6
+1,1,17,Rohit Sharma,c Marcus Stoinis b Mohsin Khan,4,5
+1,2,17,Suryakumar Yadav,c K L Rahul b Marcus Stoinis,10,6
+1,5,17,Hardik Pandya,c K L Rahul b Naveen-Ul-Haq,0,1
+1,5,17,Tilak Varma,ro (Ravi Bishnoi),7,11
+1,13,17,Ishan Kishan,c Mayank Yadav b Ravi Bishnoi,32,35
+1,17,17,Nehal Wadera,b Mohsin Khan,46,41
+1,18,17,Mohammad Nabi,b Mayank Yadav,1,2
+2,0,77,Arshin Atul Kulkarni,lbw Nuwan Thushara,0,1
+2,7,77,K L Rahul,c Mohammad Nabi b Hardik Pandya,28,22
+2,13,77,Deepak Hooda,c Jasprit Bumrah b Hardik Pandya,18,18
+2,14,77,Marcus Stoinis,c Tilak Varma b Mohammad Nabi,62,45
+2,17,77,Ashton Turner,b Gerald Coetzee,5,9
+2,18,77,Ayush Badoni,ro (Naman Dhir),6,6
+1,8,13,Shivam Dube,lbw Harpreet Brar,0,1
+1,8,13,Ajinkya Rahane,c Rilee Rossouw b Harpreet Brar,29,24
+1,9,13,Ravindra Jadeja,lbw Rahul Chahar,2,4
+1,15,13,Sameer Rizwi,c Harshal Patel b Kagiso Rabada,21,23
+1,17,13,Ruturaj Gaikwad,b Arshdeep Singh,62,47
+1,18,13,Moeen Ali,b Rahul Chahar,15,9
+1,19,13,MS Dhoni,ro (Harshal Patel),14,11
+2,3,15,Prabhsimran Singh,c Ruturaj Gaikwad b Richard Gleeson,13,10
+2,9,15,Jonny Bairstow,c MS Dhoni b Shivam Dube,46,30
+2,11,15,Rilee Rossouw,b Shardul Thakur,43,23
+1,8,13,Shivam Dube,lbw Harpreet Brar,0,1
+1,8,13,Ajinkya Rahane,c Rilee Rossouw b Harpreet Brar,29,24
+1,9,13,Ravindra Jadeja,lbw Rahul Chahar,2,4
+1,15,13,Sameer Rizwi,c Harshal Patel b Kagiso Rabada,21,23
+1,17,13,Ruturaj Gaikwad,b Arshdeep Singh,62,47
+1,18,13,Moeen Ali,b Rahul Chahar,15,9
+1,19,13,MS Dhoni,ro (Harshal Patel),14,11
+2,3,15,Prabhsimran Singh,c Ruturaj Gaikwad b Richard Gleeson,13,10
+2,9,15,Jonny Bairstow,c MS Dhoni b Shivam Dube,46,30
+2,11,15,Rilee Rossouw,b Shardul Thakur,43,23
+1,4,20,Abhishek Sharma,c Dhruv Jurel b Avesh Khan,12,10
+1,5,20,Anmolpreet Singh,c Yashasvi Jaiswal b Sandeep Sharma,5,5
+1,14,20,Travis Head,b Avesh Khan,58,44
+2,0,18,Sanju Samson,b Bhuvneshwar Kumar,0,3
+2,0,18,Jos Buttler,c Marco Jansen b Bhuvneshwar Kumar,0,1
+2,13,18,Yashasvi Jaiswal,b T Natarajan,67,39
+2,15,18,Riyan Parag,c Marco Jansen b Pat Cummins,77,48
+2,17,18,Shimron Hetmyer,c Marco Jansen b T Natarajan,13,9
+2,18,18,Dhruv Jurel,c Abhishek Sharma b Pat Cummins,1,3
+2,19,18,Rovman Powell,lbw Bhuvneshwar Kumar,27,15
+1,4,20,Abhishek Sharma,c Dhruv Jurel b Avesh Khan,12,10
+1,5,20,Anmolpreet Singh,c Yashasvi Jaiswal b Sandeep Sharma,5,5
+1,14,20,Travis Head,b Avesh Khan,58,44
+2,0,18,Jos Buttler,c Marco Jansen b Bhuvneshwar Kumar,0,1
+2,0,18,Sanju Samson,b Bhuvneshwar Kumar,0,3
+2,13,18,Yashasvi Jaiswal,b T Natarajan,67,39
+2,15,18,Riyan Parag,c Marco Jansen b Pat Cummins,77,48
+2,17,18,Shimron Hetmyer,c Marco Jansen b T Natarajan,13,9
+2,18,18,Dhruv Jurel,c Abhishek Sharma b Pat Cummins,1,3
+2,19,18,Rovman Powell,lbw Bhuvneshwar Kumar,27,15
